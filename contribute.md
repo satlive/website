@@ -13,7 +13,7 @@ Just send your information to [daniel@satlive.org](mailto:daniel@satlive.org)
 
 ## The hacker way
 
-The new SAT Live! is built using [Jeckyll](http://jekyllrb.com). All the posts are written using a specific markdown format which is then transformed into HTML. All the content of the website is stored on a git repository.
+The new SAT Live! is built using [Jeckyll](http://jekyllrb.com). All the posts are written using a specific markdown format which is then transformed into HTML. All the content of the website is [stored on a git repository](https://github.com/satlive/website/).
 
 The proper way to submit a new "post" to SAT Live! is thus to:
 

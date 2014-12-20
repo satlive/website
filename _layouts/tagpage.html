@@ -3,10 +3,12 @@ layout: default
 ---
 <div class="home">
 
-  <h1 class="page-heading">Recent news about SAT <small>subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></small></h1>
+  <h1 class="page-heading">Recent news about SAT for tag {{ page.tag }}</h1>
   <p>&nbsp;</p>
   <ul class="post-list">
     {% for post in site.posts %}
+       {%  for tag in post.tags %}
+          {% if (tag == page.tag) %}
       <li>
         <h4><span class="label label-default">{{ post.date | date: "%b %-d, %Y" }}</span>&nbsp;
 
@@ -18,6 +20,8 @@ layout: default
        {% endfor %}
           {{ post.excerpt }}
       </li>
+          {% endif %}
+      {% endfor %}
     {% endfor %}
   </ul>
 
