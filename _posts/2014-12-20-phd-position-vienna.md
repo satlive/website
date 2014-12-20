@@ -2,7 +2,7 @@
 layout: post
 title: "PhD position in QBF solving at Vienna University of Technology, Austria"
 author: "Stefan Szeider"
-categories: position PhD QBF
+tags: position PhD QBF
 ---
 
 There is an opening for a funded PhD position in Quantified Boolean Formula (QBF) solving at the Vienna University of Technology, Vienna, Austria. 

@@ -2,7 +2,8 @@
 layout: post
 title: "VCLA International Student Awards"
 author: "Stefan Szeider"
-categories: Awards
+tags: Awards
+excerpt: "The Vienna Center for Logic and Algorithms calls for the nomination of authors of outstanding scientific works in the field of Logic and Computer Science."
 ---
 The Vienna Center for Logic and Algorithms calls for the nomination of
 authors of outstanding scientific works in the field of Logic and

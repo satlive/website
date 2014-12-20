@@ -13,6 +13,7 @@ layout: default
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
           
           by {{ post.author }}</h4>
+          {{ post.excerpt }}
       </li>
     {% endfor %}
   </ul>
