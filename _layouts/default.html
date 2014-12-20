@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+
+{% include head.html %}
+
+<body>
+	<div class="container">
+
+	{% include header.html %}
+
+		<div class="row">
+			<div class="col-md-2">
+				<div class="panel panel-default">
+					<div class="panel-heading">
+						<h3 class="panel-title">Our scientific association</h3>
+					</div>
+					<div class="panel-body center-block">
+						<a href="http://www.satassociation.org/" class="thumbnail"><img
+							src="{{ "/SAT-logo.png" | prepend: site.baseurl }} " alt="The SAT association"
+							title="The SAT association"></a>
+					</div>
+				</div>
+				<div class="panel panel-default">
+					<div class="panel-heading">
+						<h3 class="panel-title">Upcoming deadlines</h3>
+					</div>
+					<div class="panel-body center-block">
+						<ul class="list-unstyled">
+							<li><span class="label label-default">25 January</span> <a
+								href="http://www.cs.utexas.edu/~marijn/sat15/"
+								title="SAT'15 workshop proposals">SAT'15 WS</a></li>
+							<li><span class="label label-default">15 April</span> <a
+								href="http://lpnmr2015.mat.unical.it/"
+								title="13th International Conference on Logic Programming and Non-monotonic Reasoning">LPNMR'15</a></li>
+							<li><span class="label label-default">22 April</span> <a
+								href="http://www.cs.utexas.edu/~marijn/sat15/"
+								title="18th International Conference on Theory and Applications of Satisfiability Testing">SAT'15</a></li>
+							<li><span class="label label-default">27 April</span> <a
+								href="http://booleconferences.ucc.ie/iclp2015"
+								title="31st International Conference on Logic Programming">ICLP'15</a></li>
+						</ul>
+					</div>
+				</div>
+				<div class="panel panel-default">
+					<div class="panel-heading">
+						<h3 class="panel-title">SAT related books</h3>
+					</div>
+					<div class="panel-body center-block">
+
+						<a
+							href="http://www.lehmanns.de/shop/mathematik-informatik/27340853-9783865415271-the-satisfiability-problem"
+							class="thumbnail"><img
+							src="http://www.lehmanns.de/media/28301317"
+							alt="The Satisfiability Problem"
+							title="The Satisfiability Problem (2013)" height="150"></a> <a
+							href="http://www.iospress.nl/html/9781586039295.php"
+							class="thumbnail"><img src="http://fmv.jku.at/hbsat.png"
+							alt="Handbook of Satisfiability"
+							title="Handbook of Satisfiability (2009)"></a> <a
+							href="http://www.cambridge.org/us/catalogue/catalogue.asp?isbn=0521847524"
+							class="thumbnail"> <img
+							src="http://assets.cambridge.org/97805218/47520/cover/9780521847520.jpg"
+							height="160"
+							alt="Boolean Models and Methods in Mathematics, Computer Science, and Engineering"
+							title="Boolean Models and Methods in Mathematics, Computer Science, and Engineering (2010)"></a>
+						<a
+							href="http://www.amazon.com/Satisfiability-Verification-Marc-Herbstritt/dp/3838101022"
+							class="thumbnail"> <img
+							src="http://ira.informatik.uni-freiburg.de/~herbstri/aboutme/Herbstritt-9783838101026.jpg"
+							alt="Satisfiability & Verification"
+							title="Satisfiability & Verification (2009)"></a> <a
+							href="http://www.informatik.uni-bremen.de/agra/bookdetail/tpg.php"
+							class="thumbnail"> <img
+							src="http://www.informatik.uni-bremen.de/agra/images/books/tpg_big.gif"
+							height="180"
+							alt="Test Pattern Generation using Boolean Proof Engines"
+							title="Test Pattern Generation using Boolean Proof Engines (2009)"></a>
+						<a href="http://www.crcpress.com/product/isbn/9781439801673"
+							class="thumbnail"> <img
+							src="http://images.tandf.co.uk/common/jackets/crclarge/978143980/9781439801673.jpg"
+							height="180" alt="Introduction to mathematics of satisfiability"
+							title="Introduction to mathematics of satisfiability (2009)"></a>
+						<a href="http://www.lavoisier.fr/notice/fr423832.html"
+							class="thumbnail"> <img
+							src="http://www.lavoisier.fr/vignette_3LKJX3ARSSXODS"
+							alt="Probleme SAT: progres et defis"
+							title="Probleme SAT: progres et defis (2008, in french)"></a>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-10">
+				<p class="alert alert-warning">SAT Live! is currently being
+					redesigned. Features are added incrementally to the site. 
+					Do not hesitate to <a href="https://github.com/satlive/website/issues">fill in an issue</a>
+					for feature requests, ideas for improving the site, report problems.
+				</p>
+				{{ content }}
+			</div>
+		</div>
+	
+	{% include footer.html %}
+
+	</div>
+
+</body>
+
+</html>

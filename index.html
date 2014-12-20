@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<div class="home">
+
+  <h1 class="page-heading">Recent news about SAT <small>subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></small></h1>
+  <p>&nbsp;</p>
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <h4><span class="label label-default">{{ post.date | date: "%b %-d, %Y" }}</span>&nbsp;
+
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          
+          by {{ post.author }}</h4>
+      </li>
+    {% endfor %}
+  </ul>
+
+</div>

@@ -1,0 +1,25 @@
+<header class="site-header">
+
+  <div>
+
+    <div class="jumbotron">
+    <h1><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
+    <p>{{ site.description }}</p>
+    </div>
+    <nav class="navbar navbar-default" role="navigation">
+      <div class="navbar-header">
+      <a class="navbar-brand" href="/">Home</a>
+      </div>
+      <ul class="nav navbar-nav">
+        
+        {% for page in site.pages %}
+          {% if page.title %}
+           <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </nav>
+
+  </div>
+
+</header>
