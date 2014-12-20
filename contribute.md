@@ -17,7 +17,7 @@ The new SAT Live! is built using [Jeckyll](http://jekyllrb.com). All the posts a
 
 The proper way to submit a new "post" to SAT Live! is thus to:
 
-* clone the current SAT Live! web site on github
+* [clone](https://github.com/satlive/website/fork) the current SAT Live! web site on github
 * write your own post: make sure to [properly adhere the naming conventions](http://jekyllrb.com/docs/posts/)
 * send me a pull request :)
 
