@@ -16,4 +16,9 @@ layout: default
     {{ content }}
   </article>
 
+ {% if page.link %} 
+  <footer>
+     <a href="{{ page.link }}">More information on this external web site ...</a>
+  </footer>
+  {% endif %}
 </div>

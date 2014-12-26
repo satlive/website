@@ -4,6 +4,7 @@ title: "JSAT Special Issue on SAT 2014 COMPETITIONS AND EVALUATIONS"
 author: "Marijn Heule"
 tags: CFP
 excerpt: "A special issue for the participants of SAT 2014 competitive events."
+link: http://satassociation.org/jsat/
 ---
     **************************** Call for Papers *********************************
     **                                                                          **
@@ -11,7 +12,6 @@ excerpt: "A special issue for the participants of SAT 2014 competitive events."
     **                 SAT 2014 COMPETITIONS AND EVALUATIONS                    **
     **                                                                          **
     **    Journal on Satisfiability, Boolean Modeling and Computation (JSAT)    **
-    **                     http://satassociation.org/jsat/                      **
     **                 ISSN: 1574-0617, published by OIS Press                  **
     **                                                                          **
     ** Guest editors: Marijn Heule      The University of Texas at Austin, USA  **
