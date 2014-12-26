@@ -21,7 +21,7 @@ deadline: 2014-12-12
     **                                                                          **
     ******************************************************************************
 
-# IMPORTANT DATES
+## IMPORTANT DATES
 
 Submission to the special issue is now open.
 
@@ -35,7 +35,7 @@ as soon as received by the journal editors. The special issue will appear
 either as part of a regular volume or as a specific volume depending on the 
 number of accepted papers.
 
-# MOTIVATION
+## MOTIVATION
 
 Boolean satisfiability (SAT) and related solver competitions organized during 
 the last two decades have been a stimulating force to improve SAT solvers and
@@ -56,7 +56,7 @@ submissions describing solver techniques, benchmark families, competition report
 and thorough analysis and insights into the data produced by the competitions.
 
 
-# TOPICS OF INTEREST
+## TOPICS OF INTEREST
 
 Manuscripts addressing one or more of the following aspects of 2014 SAT-related
 solver competitions are invited.
@@ -95,7 +95,7 @@ solver competitions are invited.
   competitions, and related analysis of the competition benchmarks.
 
 
-# SUBMISSION INFORMATION
+## SUBMISSION INFORMATION
 
 Submissions should be written using the JSAT latex style files. System 
 description submissions are limited to six pages in the JSAT style. 

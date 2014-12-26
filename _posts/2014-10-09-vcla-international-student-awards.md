@@ -35,14 +35,14 @@ decisions of the committee are not appealable.
 For more information, please see http://logic-cs.at/award/
 
 
-# IMPORTANT DATES
+## IMPORTANT DATES
 
 Nomination deadline: November 15, 2014 (AoE)
 Notification of decision: Mid January 2015
 Award ceremony: Spring 2015 (precise date to be announced)
 
 
-# TOPICS OF INTEREST
+## TOPICS OF INTEREST
 
 Both awards recognize the author of an original contribution to a
 research field that can be classified as part of *Logic in Computer
@@ -81,7 +81,7 @@ complexity (complexity analysis, parameterized complexity,
 decomposition methods) and constraint satisfaction (SAT, QSAT, CSP).
 
 
-# NOMINATION INSTRUCTIONS
+## NOMINATION INSTRUCTIONS
 
 Nominations must include:
 
@@ -134,7 +134,7 @@ optionally be included as second author (for example, in case (s)he
 does the electronic submission).
 
 
-# AWARD COMMITTEE
+## AWARD COMMITTEE
 
 * Ezio Bartocci
 * Simone Bova

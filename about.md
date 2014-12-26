@@ -10,21 +10,6 @@ If you are a newcomer to the SATisfiability problem, you might want to take a lo
 
 The SAT association also makes available some chapters from the Handbook of satisfiability to allow newcomers to understand key principles in satisfiability, namely History of Satisfiability, the Conflict Driven Clause Learning architecture in SAT solvers and the principles behind Bounded Model Checking. More material is available on the association's tutorials web page.
 
-## Looking for a SAT solver to play with?
-
-The following open source SAT solvers might be a good start: 
-
-* [Minisat (C++)](http://www.minisat.se/), 
-* [Glucose (C++)](http://www.labri.fr/perso/lsimon/glucose/)
-* [Picosat (C)](http://fmv.jku.at/picosat/), 
-* [Lingeling (C++)](http://fmv.jku.at/lingeling/), 
-* [SAT4J (Java)](http://www.sat4j.org/). 
-
-If you are looking for a stochastic local search framework for SAT, you should take a look at :
-
-* [UBCSAT](http://ubcsat.dtompkins.com/)
-* ... 
-
 ## Heads up on SAT research
 
 * Our open access [journal on Satisfiability, Boolean Modeling and Computation](http://www.satassociation.org/jsat/) supported by the SAT association
