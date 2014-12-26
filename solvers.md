@@ -14,16 +14,12 @@ Those solvers are expected to run out-of-the-box on recent computers.
 
 ### CDCL sat solvers
 
-The following open source SAT solvers might be a good start:
-
 * [Clasp (C++)](http://potassco.sourceforge.net)
 * [Glucose (C++)](http://www.labri.fr/perso/lsimon/glucose/)
 * [Lingeling (C++)](http://fmv.jku.at/lingeling/)
 * [Minisat (C++)](http://www.minisat.se/)
 * [Picosat (C)](http://fmv.jku.at/picosat/)
 * [SAT4J (Java)](http://www.sat4j.org/)
-
-If you are looking for a stochastic local search framework for SAT, you should take a look at :
 
 ### Stochastic Local Search solvers
 
