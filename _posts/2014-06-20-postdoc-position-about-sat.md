@@ -3,7 +3,7 @@ layout: "post"
 title: "PostDoctoral position proposal in Propositional Satisfiability"
 author: "Lakhdar Saïs"
 tags: Position PostDoc
-excerpt: ""
+excerpt: "Algorithms for Inference and Constraints group (CRIL, CNRS UMR 8188), at Lens (France), is offering a postDoctoral position."
 ---
 Algorithms for Inference and Constraints group (CRIL, CNRS UMR 8188), at Lens (France), is offering a postDoctoral position.
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CFP Fourth SAT/SMT summer school"
+title: "Call for participation -  Fourth SAT/SMT summer school"
 author: Georg Weissenbacher
 tags: CFP
 excerpt: "The fourth edition follows the schools that took place at MIT (SAT/SMT

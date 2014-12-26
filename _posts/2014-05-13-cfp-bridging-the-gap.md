@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "First Workshop on Bridging the Gap Between Theory and Practice in Constraint Solvers"
+title: "Bridging the Gap Between Theory and Practice in Constraint Solvers"
 author: "Philippe Jegou"
 tags: CFP
 excerpt: "This one-day workshop will be held at CP 2014, the 20th International Conference on Principles and Practice of Constraint Programming."
@@ -8,9 +8,7 @@ link: http://cp2014.a4cp.org/workshops/bridginggap14
 ---
 First Workshop on Bridging the Gap Between Theory and Practice in Constraint Solvers
 
-This one-day workshop will be held at [CP 2014, the 20th International
-Conference on Principles and Practice of Constraint Programming]
-(http://cp2014.a4cp.org), on Monday 8 September 2014 in Lyon, France.
+This one-day workshop will be held at [CP 2014, the 20th International Conference on Principles and Practice of Constraint Programming](http://cp2014.a4cp.org), on Monday 8 September 2014 in Lyon, France.
 
 
 ## Aims and scope

@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "04-June-2014 CFP - ICTAI'14 Special Track on SAT and CSP"
+title: "ICTAI'14 Special Track on SAT and CSP"
 author: "Bertrand Mazure"
 tags: CFP
-excerpt: ""
+excerpt: "Over the years, the ICTAI conference has become a major forum for the
+CSP and SAT research communities for presenting new high-quality results. The second edition of the special track is intended to further develop the role of ICTAI in this respect."
 link: http://www.cril.univ-artois.fr/ICTAI14-SAT-CSP-Track/
 ---
 

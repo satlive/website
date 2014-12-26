@@ -3,7 +3,7 @@ layout: post
 title: "Funded Doctoral Positions in Austria (LogiCS)"
 author: "Stefan Szeider"
 tags: Positions, PhD
-excerpt: " "
+excerpt: "TU Wien, TU Graz, and JKU Linz are seeking exceptionally talented and motivated students for their joint doctoral program LogiCS."
 link: http://logic-cs.at/phd/
 ---
 LogiCS - Doctoral College on Logical Methods in Computer Science
