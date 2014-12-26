@@ -1,10 +1,12 @@
 ---
 layout: post
 title: "JSAT Special Issue on SAT 2014 COMPETITIONS AND EVALUATIONS"
+shorttitle: JSAT
 author: "Marijn Heule"
 tags: CFP
 excerpt: "A special issue for the participants of SAT 2014 competitive events."
 link: http://satassociation.org/jsat/
+deadline: 2014-12-12
 ---
     **************************** Call for Papers *********************************
     **                                                                          **
