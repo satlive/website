@@ -2,7 +2,7 @@
 title: SAT Live!
 email: daniel@satlive.org 
 description: > # this means to ignore newlines until "baseurl:"
-  keep up to date with research on the satisfiability problem.
+  keep up to date with research on the satisfiability problem
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.satlive.org" # the base hostname & protocol for your site
 #twitter_username: satlive
