@@ -26,6 +26,10 @@ Those solvers are expected to run out-of-the-box on recent computers.
 * [UBCSAT](http://ubcsat.dtompkins.com/)
 * ...
 
+### Pre-processors
+
+* [SatELite (C++)](http://minisat.se/SatELite.html)
+* [Coprocessor (C++)](http://tools.computational-logic.org/content/coprocessor.php)
 
 ## Pseudo-Boolean solvers
 
