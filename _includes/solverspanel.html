@@ -1,0 +1,15 @@
+<div class="panel panel-default">
+<div class="panel-heading">
+{{ include.title }}
+</div>
+<div class="panel-body">
+
+<ul>
+{% for page in site.solvers %}
+{% if page.tags contains include.tags %}
+<li> <a href="{{ page.link }}">{{ page.name }}</a> {% if page.language %} <span class="label label-default">{{ page.language }}</span> {% endif %} {% if page.license %} <span class="label label-primary">{{ page.license }}</span> {% endif %}</li>
+{% endif %}
+{% endfor %}
+</ul>
+</div>
+</div>

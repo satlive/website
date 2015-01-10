@@ -10,3 +10,6 @@ github_username:  satlive
 
 # Build settings
 markdown: kramdown
+
+collections:
+- solvers
