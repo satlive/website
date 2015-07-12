@@ -12,9 +12,14 @@
       </div>
       <ul class="nav navbar-nav">
         
-        {% for page in site.pages %}
-          {% if page.title %}
-           <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+        {% for apage in site.pages %}
+          {% if apage.title %}
+               {% if apage.title == page.title %}
+                  <li class="active">
+               {% else %}
+                  <li>
+               {% endif %}
+               <a href="{{ apage.url | prepend: site.baseurl }}">{{ apage.title }}</a></li>
           {% endif %}
         {% endfor %}
       </ul>
