@@ -14,10 +14,17 @@ layout: default
 
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
           
-          by {{ post.author }}</h4>
+          by {{ post.author }}
           {% for tag in post.tags %}
-       <a href="{{ tag | downcase | prepend: "/" | append: ".html" | prepend: site.baseurl}}">{{ tag }}</a>&nbsp;
+            {% if tag == "CFP" %} 
+              <span class="tag label-warning">
+            {% else %}
+              <span class="tag label-info">
+            {% endif %}
+                <a href="{{ tag | downcase | prepend: "/" | append: ".html" | prepend: site.baseurl}}">{{ tag }}</a>&nbsp;
+              </span>
        {% endfor %}
+       </h4>
           {{ post.excerpt }}
       </li>
           {% endif %}
