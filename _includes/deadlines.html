@@ -10,7 +10,7 @@
                                                    {% if cfp.deadline %}
                                                        {% capture deadline %}{{ cfp.deadline | date: "%Y-%m-%d" }}{% endcapture %}
                                                        {% if deadline >= today %}
-                                                        <dt>{{ cfp.deadline | date: "%B %-d" }}</dt>
+                                                        <dt>{{ cfp.deadline | date: "%B %-d, %Y" }}</dt>
                                                         <dd><a
                                                                 href="{{ cfp.link }}"
                                                                 title="{{ cfp.title }}">{{ cfp.shorttitle }}</a></dd>
