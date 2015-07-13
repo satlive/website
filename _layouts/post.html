@@ -7,7 +7,13 @@ layout: default
     <h1 class="post-title">{{ page.title }}</h1>
     <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}
        {% for tag in page.tags %}
-       &nbsp;<a href="{{ tag | downcase | prepend: "/" | append: ".html" | prepend: site.baseurl}}">{{ tag }}</a>
+                   {% if tag == "CFP" %} 
+              <span class="tag label-warning">
+            {% else %}
+              <span class="tag label-info">
+            {% endif %}
+                <a href="{{ tag | downcase | prepend: "/" | append: ".html" | prepend: site.baseurl}}">{{ tag }}</a>&nbsp;
+              </span>
        {% endfor %}
     </p>
   </header>
@@ -15,7 +21,7 @@ layout: default
   <article class="post-content">
     {{ content }}
   </article>
-
+  <br />
  {% if page.link %} 
   <footer>
      <a href="{{ page.link }}">More information on this external web site ...</a>

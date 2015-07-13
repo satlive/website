@@ -50,3 +50,36 @@ $on-laptop:        800px;
         "layout",
         "syntax-highlighting"
 ;
+
+
+.tag {
+	
+  display: inline;
+  padding: .2em .6em .3em;
+  font-size: 75%;
+  font-weight: 700;
+  line-height: 1;
+  color: #fff;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: baseline;
+  border-radius: .25em;
+  margin-right: 10px;
+}
+
+.tag a {
+	
+	color: white; 
+	text-decoration: none;
+}
+
+.tag a:hover {
+	
+	color: grey; 
+	text-decoration: none;
+}
+
+h4 .label {
+	
+	margin-bottom: 6px;
+}
