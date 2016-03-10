@@ -11,5 +11,7 @@ github_username:  satlive
 # Build settings
 markdown: kramdown
 
+paginate: 20 
+
 collections:
 - solvers

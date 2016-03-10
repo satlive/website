@@ -5,7 +5,8 @@
                                         <div class="panel-body center-block">
                                                 <dl>
                                                 {% capture today %}{{ site.time | date: "%Y-%m-%d" }}{% endcapture %}
-                                                {% assign sortedcfps = site.tags.CFP | sort: 'deadline' | reverse %}
+                                                {% if site.tags.Deadline %}
+                                                {% assign sortedcfps = site.tags.Deadline | sort: 'deadline' | reverse %}
                                                 {% for cfp in sortedcfps reversed %}
                                                    {% if cfp.deadline %}
                                                        {% capture deadline %}{{ cfp.deadline | date: "%Y-%m-%d" }}{% endcapture %}
@@ -17,6 +18,7 @@
                                                        {% endif %}
                                                    {% endif %}
                                                 {% endfor %}
+                                                {% endif %}
                                                 </dl>
                                         </div>
                                 </div>
