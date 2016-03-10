@@ -14,7 +14,7 @@ The SAT association also makes available some chapters from the Handbook of sati
 ## Heads up on SAT research
 
 * Our open access [journal on Satisfiability, Boolean Modeling and Computation](http://www.satassociation.org/jsat/) supported by the SAT association
-* [Our yearly conference](http://www.satisfiability.org/) September 24-27, 2015, Austin, USA
+* [Our yearly conference](http://www.satisfiability.org/) July 5-8, 2016, Bordeaux, France
 * Our solver competitions [SAT](http://www.satcompetition.org/), MAXSAT, QBF
 * SAT in practice [Pragmatics of SAT workshops](http://www.pragmaticsofsat.org/)
 * Satisfiability Modulo Theory
