@@ -2,9 +2,11 @@
 layout: post
 title: "SAT/SMT/AR summer school, Lisbon, Portugal"
 author: Ines Lynce
-tags: SAT SMT 
+tags: CFP SAT SMT 
+shorttitle: SAT-SMT-AR'16
 excerpt: EXTENDED APPLICATION DEADLINE: May 15th, 2016
 link: http://ssa-school-2016.it.uu.se/ 
+deadline: 2016-05-15
 ---
 =========================================================================
      FINAL CALL FOR PARTICIPATION
