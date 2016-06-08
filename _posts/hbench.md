@@ -1,5 +1,5 @@
 layout: post
-title: HBench - A new a GUI-based platform on Windows for performance benchmarking
+title: HBench - A new GUI-based platform on Windows for performance benchmarking
 author: Ofer Strichman
 tags: Tool
 excerpt: "HBench provides a simple one-form GUI for managing performance-oriented
