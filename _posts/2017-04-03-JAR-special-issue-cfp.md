@@ -3,9 +3,11 @@ layout: post
 title: "JAR Special Issue on Automated Reasoning Systems"
 shorttitle: JAR Special Issue 2017
 author: "Armin Biere"
-tags: CFP
-excerpt: "Abstract submission deadline for SAT'15 is April 22nd!"
-link: http://www.cs.utexas.edu/~marijn/sat15/
+tags: CFP Deadline
+excerpt: "The past few decades have seen major developments and
+practical achievements in automated reasoning systems: that special issue
+is dedicated to those systems in their full variety."
+link: https://www.mpi-inf.mpg.de/JARS17/ 
 deadline: 2017-04-03
 ---
     =================================================
@@ -82,10 +84,6 @@ needed.
 + 3 Apr 2017    Submission deadline
 + 1 Nov 2017    Notification of acceptance/rejection
 + 1 Mar 2018    Final version
-
-## More Information
-
-for more information, please see https://www.mpi-inf.mpg.de/JARS17/
 
 ## Guest Editors
 
