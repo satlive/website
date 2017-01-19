@@ -8,13 +8,13 @@ excerpt: "Abstract submission deadline for SAT'15 is April 22nd!"
 link: http://www.cs.utexas.edu/~marijn/sat15/
 deadline: 2017-04-03
 ---
-=================================================
-	      CALL FOR PAPERS
+    =================================================
+    	      CALL FOR PAPERS
 	Journal of Automated Reasoning
 
 	       Special Issue On
 	 Automated Reasoning Systems
-=================================================
+    =================================================
 
 The past few decades have seen major developments and
 practical achievements in automated reasoning systems. For
@@ -33,19 +33,19 @@ This special issue is dedicated to automated reasoning
 systems in their full variety along the following
 dimensions:
 
-1) considered logic: propositional (including (D)QBF),
+1. considered logic: propositional (including (D)QBF),
 first-order modulo theories, modal, temporal, decidable
 fragments of larger logics, FOL, and HOL, ...;
 
-2) considered problem: satisfiability, interpolation,
+2. considered problem: satisfiability, interpolation,
 quantifier elimination, consequence finding, model building,
 reachability, termination, ...;
 
-3) application area: formal methods, artificial
+3. application area: formal methods, artificial
 intelligence, mathematics, biology, product development,
 security, ...;
 
-4) user base: academic, educational, or industrial.
+4. user base: academic, educational, or industrial.
 
 In particular, we welcome papers emphasizing engineering
 aspects because, while often crucial for the success of
@@ -64,21 +64,14 @@ the usual standards of scholarship and originality.
 We encourage submissions that include most, if not all, of
 the following:
 
-(i) theory details
++ (i) theory details
++ (ii) implementation details
++ (iii) applications, and
++ (iv) experiments.
 
-(ii) implementation details
+Papers should be in PDF format, following [JAR guidelines](http://www.springer.com/computer/theoretical+computer+science/journal/10817)
 
-(iii) applications, and
-
-(iv) experiments.
-
-Papers should be in PDF format, following JAR guidelines:
-
-  <http://www.springer.com/computer/theoretical+computer+science/journal/10817>
-
-and be submitted using EasyChair:
-
-  <https://easychair.org/conferences/?conf=jars2017>
+and be submitted using [EasyChair](https://easychair.org/conferences/?conf=jars2017)
 
 To encourage a speedy review cycle, we will expect authors
 of submissions to serve as referees for other submissions as
@@ -86,28 +79,24 @@ needed.
 
 ## Important Dates
 
-3 Apr 2017    Submission deadline
-
-1 Nov 2017    Notification of acceptance/rejection
-
-1 Mar 2018    Final version
++ 3 Apr 2017    Submission deadline
++ 1 Nov 2017    Notification of acceptance/rejection
++ 1 Mar 2018    Final version
 
 ## More Information
 
-for more information, please see
-  
-  <https://www.mpi-inf.mpg.de/JARS17/>
+for more information, please see https://www.mpi-inf.mpg.de/JARS17/
 
 ## Guest Editors
 
-Armin Biere,
-Johannes Kepler University,
-Linz, Austria
+    Armin Biere,
+    Johannes Kepler University,
+    Linz, Austria
 
-Cesare Tinelli,
-The University of Iowa,
-Iowa City, USA
+    Cesare Tinelli,
+    The University of Iowa,
+    Iowa City, USA
 
-Christoph Weidenbach,
-Max Planck Institute for Informatics,
-Saarbruecken, Germany
+    Christoph Weidenbach,
+    Max Planck Institute for Informatics,
+    Saarbruecken, Germany
