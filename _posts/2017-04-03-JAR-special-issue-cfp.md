@@ -6,7 +6,7 @@ author: "Armin Biere"
 tags: CFP
 excerpt: "Abstract submission deadline for SAT'15 is April 22nd!"
 link: http://www.cs.utexas.edu/~marijn/sat15/
-deadline: 2015-04-22
+deadline: 2017-04-03
 ---
 =================================================
 	      CALL FOR PAPERS
