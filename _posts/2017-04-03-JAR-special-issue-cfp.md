@@ -65,9 +65,7 @@ We encourage submissions that include most, if not all, of the following:
 
 Papers should be in PDF format, following the JAR guidelines for authors,
 http://www.springer.com/computer/theoretical+computer+science/journal/10817
-and be submitted using EasyChair:
-
-                https://easychair.org/conferences/?conf=jars2017
+and be submitted using EasyChair: https://easychair.org/conferences/?conf=jars2017
 
 To encourage a speedy review cycle, we will expect authors of submissions to
 serve as referees for other submissions as needed.
@@ -82,14 +80,12 @@ serve as referees for other submissions as needed.
 
 ## More Information
 
-for more information, please see
-
-                https://www.mpi-inf.mpg.de/JARS17/
+for more information, please see https://www.mpi-inf.mpg.de/JARS17/
 
 ## Guest Editors
 
-   Armin Biere, Johannes Kepler University, Linz, Austria
+Armin Biere, Johannes Kepler University, Linz, Austria
 
-   Cesare Tinelli, The University of Iowa, Iowa City, USA
+Cesare Tinelli, The University of Iowa, Iowa City, USA
 
-   Christoph Weidenbach, Max Planck Institute for Informatics, Saarbruecken, Germany
+Christoph Weidenbach, Max Planck Institute for Informatics, Saarbruecken, Germany
