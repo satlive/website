@@ -10,11 +10,11 @@ deadline: 2017-05-12
 ---
                *** CALL FOR PAPERS ***
 
-ARCADE                    http://www.cs.man.ac.uk/~regerg/arcade/
-Automated Reasoning:
-Challenges, Applications, Directions, Exemplary achievements
+    ARCADE                    http://www.cs.man.ac.uk/~regerg/arcade/
+    Automated Reasoning:
+    Challenges, Applications, Directions, Exemplary achievements
 
-6 August 2017, Gothenburg, Sweden (co-located with CADE-26)
+    6 August 2017, Gothenburg, Sweden (co-located with CADE-26)
 
 ## DESCRIPTION:
 
