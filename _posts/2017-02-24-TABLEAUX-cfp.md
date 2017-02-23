@@ -180,9 +180,7 @@ and ITP)
    Accepted papers in both categories will be published in the
    conference proceedings. Papers must be edited in LaTeX using the
    llncs style and must be submitted electronically as PDF files via
-   the EasyChair system:
-
-   (https://easychair.org/conferences/?conf=tableaux2017)[https://easychair.org/conferences/?conf=tableaux2017]
+   the EasyChair system: [https://easychair.org/conferences/?conf=tableaux2017](https://easychair.org/conferences/?conf=tableaux2017)
 
    For all accepted papers at least one author is required to attend
    the conference and present the paper. A paper title and a short
@@ -191,9 +189,7 @@ and ITP)
    will be made available at the conference website. Be aware that
    neither plagiarism, nor self-plagiarism, nor duplicate publication
    is acceptable. Formatting instructions and the LNCS style files
-   can be obtained via
-
-http://www.springer.com/br/computer-science/lncs/conference-proceedings-guidelines
+   can be obtained via [http://www.springer.com/br/computer-science/lncs/conference-proceedings-guidelines](http://www.springer.com/br/computer-science/lncs/conference-proceedings-guidelines)
 
 #BEST PAPER AWARD
 
