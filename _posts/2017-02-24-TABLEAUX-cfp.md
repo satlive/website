@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "TABLEAUX 2017: 26th International Conference on Automated Reasoning with Analytic Tableaux and Related Methods"
-shorttitle: TABLEAUX  CFP
+shorttitle: TABLEAUX 2017 CFP
 author: "Valentin Montmirail"
 tags: CFP Deadline
 excerpt: "TABLEAUX is the main international conference at which research on all aspects, theoretical foundations, implementation techniques, systems development and applications, of the mechanization of tableaux-based reasoning and related methods is presented"
@@ -181,7 +181,7 @@ and ITP)
    conference proceedings. Papers must be edited in LaTeX using the
    llncs style and must be submitted electronically as PDF files via
    the EasyChair system: [https://easychair.org/conferences/?conf=tableaux2017](https://easychair.org/conferences/?conf=tableaux2017)
-   
+
    For all accepted papers at least one author is required to attend
    the conference and present the paper. A paper title and a short
    abstract of about 100 words must be submitted before the paper
