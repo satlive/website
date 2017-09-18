@@ -3,8 +3,7 @@ layout: post
 title: First CFP - SAT 2017 - August 28 - September 1, 2017 - Melbourne, Australia
 shorttitle: SAT'17 abstract submission
 author: Daniel Le Berre
-tags: CFP Deadline
-deadline: 2017-04-26
+tags: CFP 
 link: http://sat2017.gitlab.io/
 excerpt: The next SAT conference will take place in Melbourne, right after IJCAI, together with CP and ICLP. 
 ---
