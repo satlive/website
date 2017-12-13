@@ -11,7 +11,7 @@ github_username:  satlive
 # Build settings
 markdown: kramdown
 
-gems:
+plugins:
 - jekyll-paginate
 
 paginate: 20 
