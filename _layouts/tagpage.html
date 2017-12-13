@@ -7,8 +7,8 @@ layout: default
   <p>&nbsp;</p>
   <ul class="post-list">
     {% for post in site.posts %}
-       {%  for tag in post.tags %}
-          {% if (tag == page.tag) %}
+       {%  for atag in post.tags %}
+          {% if atag == page.tag %}
       <li>
         <h4><span class="label label-default">{{ post.date | date: "%b %-d, %Y" }}</span>&nbsp;
 
