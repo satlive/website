@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Professorship AI at Johannes Kepler University Linz"
+title: "Professorship in AI at Johannes Kepler University Linz"
 shorttitle: "Professorship AI @ JKU"
 author: Armin Biere
 link: https://www.jku.at/en/the-jku/careers-entrepreneurial-opportunities/work-at-the-jku/job-openings/professorship-positions/professor-for-artificial-intelligence
