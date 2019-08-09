@@ -27,7 +27,10 @@ the following research fields, such as:
 - Robotics and Cyber-Physical Systems
 - Probabilistic Reasoning
 
+Deadline for application September 25, 2019.
+
 See
-[the announcement](http://www.csc.kth.se/~jakobn/openings/J-2018-0940-Eng.php) and the
+[the
+announcement](https://www.jku.at/en/the-jku/careers-entrepreneurial-opportunities/work-at-the-jku/job-openings/professorship-positions/professor-for-artificial-intelligence/) and the
 [full job description](https://www.jku.at/fileadmin/gruppen/80/Rektorat_Professuren/Stellenprofil_Artificial_Intelligence_ENG.pdf)
 with more details and instructions how to apply.
