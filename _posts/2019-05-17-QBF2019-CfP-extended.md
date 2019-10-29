@@ -6,12 +6,7 @@ author: Florian Lonsing
 link: http://fmv.jku.at/qbf19/
 tags: CFP Deadline QBF
 deadline: 2019-05-25
-excerpt: The goal of the International Workshop on Quantified Boolean
-Formulas and Beyond is to bring together researchers working on
-theoretical and practical aspects of QBF solving and related
-formalisms involving quantifiers. The workshop addresses theoreticians
-and practitioners in order to reflect on the-state-of-the-art in
-research and to consolidate on immediate and long-term challenges.
+excerpt: The goal of the International Workshop on Quantified Boolean Formulas and Beyond is to bring together researchers working on theoretical and practical aspects of QBF solving and related formalisms involving quantifiers. The workshop addresses theoreticians and practitioners in order to reflect on the-state-of-the-art in research and to consolidate on immediate and long-term challenges.
 ---
 
 ----------------------------------------------
