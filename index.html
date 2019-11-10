@@ -14,15 +14,17 @@ title: Home
           
           by {{ post.author }}
           {% for tag in post.tags %}
-
             {% if tag == "CFP" %} 
-              <span class="tag label-warning">
-            {% else %}
-              <span class="tag label-info">
+              <span class="tag label-warning"><a href="{{ tag | downcase | prepend: "/" | append: ".html" | prepend: site.baseurl}}">{{ tag }}</a>&nbsp;</span>
+            {% endif %}                  
+            {% if tag == "Advertising" %} 
+              <span class="tag label-success">
+            {% else %}                  
+              {% if tag != "CFP" %} <span class="tag label-info"> {% endif %}  
             {% endif %}
-                <a href="{{ tag | downcase | prepend: "/" | append: ".html" | prepend: site.baseurl}}">{{ tag }}</a>&nbsp;
-              </span>
-
+                {% if tag != "CFP" %}
+                  <a href="{{ tag | downcase | prepend: "/" | append: ".html" | prepend: site.baseurl}}">{{ tag }}</a>&nbsp;
+              </span> {% endif %}  
           {% endfor %}
        </h4>
           {{ post.excerpt }}

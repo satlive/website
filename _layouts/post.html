@@ -7,13 +7,17 @@ layout: default
     <h1 class="post-title">{{ page.title }}</h1>
     <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}
        {% for tag in page.tags %}
-                   {% if tag == "CFP" %} 
-              <span class="tag label-warning">
-            {% else %}
-              <span class="tag label-info">
+            {% if tag == "CFP" %} 
+              <span class="tag label-warning"><a href="{{ tag | downcase | prepend: "/" | append: ".html" | prepend: site.baseurl}}">{{ tag }}</a>&nbsp;</span>
+            {% endif %}                  
+            {% if tag == "Advertising" %} 
+              <span class="tag label-success">
+            {% else %}                  
+              {% if tag != "CFP" %} <span class="tag label-info"> {% endif %}  
             {% endif %}
-                <a href="{{ tag | downcase | prepend: "/" | append: ".html" | prepend: site.baseurl}}">{{ tag }}</a>&nbsp;
-              </span>
+                {% if tag != "CFP" %}
+                  <a href="{{ tag | downcase | prepend: "/" | append: ".html" | prepend: site.baseurl}}">{{ tag }}</a>&nbsp;
+              </span> {% endif %}  
        {% endfor %}
     </p>
   </header>
