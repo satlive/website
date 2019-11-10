@@ -3,7 +3,7 @@ layout: post
 title: Call for papers - JSAT special issue on SAT 2018 competitions and evaluations
 shorttitle: JSAT SAT18
 author: Martina Seidl
-tags: CFP Deadline
+tags: CFP 
 deadline: 2018-10-31
 link: http://jsatjournal.org/
 excerpt: The JSAT journal is hosting a special issue related to the competitive events that took place around the SAT 2018 conference.
