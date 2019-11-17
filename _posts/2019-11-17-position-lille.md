@@ -11,5 +11,5 @@ The project broadly aims to investigate different representations of the variabi
 
 This postdoc position is a full-time employed positions for one year. The expected starting date is before January 2020, although this is to some extent negotiable. The application deadline is December 1st.
 
-Informal enquiries are welcome and may be sent to [mailto](mailto:clement.quinton@univ-lille.fr).
+Informal enquiries are welcome and may be sent to [clement.quinton@univ-lille.fr](mailto:clement.quinton@univ-lille.fr).
 
