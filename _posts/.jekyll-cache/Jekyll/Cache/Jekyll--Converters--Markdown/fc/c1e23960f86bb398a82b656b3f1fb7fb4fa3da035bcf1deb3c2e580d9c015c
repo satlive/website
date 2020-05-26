@@ -1,0 +1,270 @@
+I"*.<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>                      CALL FOR PAPERS
+
+                       TABLEAUX 2017
+  26th International Conference on Automated Reasoning with
+           Analytic Tableaux and Related Methods
+              University of Brasília, Brazil
+                   September 25-28, 2017
+
+             Submission Deadline: 25 Apr 2017
+
+              http://tableaux2017.cic.unb.br/
+</code></pre></div></div>
+
+<h2 id="general-information">GENERAL INFORMATION</h2>
+
+<p>TABLEAUX is the main international conference at which research
+   on all aspects, theoretical foundations, implementation techniques,
+   systems development and applications, of the mechanization of
+   tableau-based reasoning and related methods is presented. As
+   the first TABLEAUX workshop was held in Lautenbach in 1992, this
+   year’s conference will include special events celebrating 25 years
+   of TABLEAUX.</p>
+
+<p>The conference will be held in Brasília from 25-28 September 2017.
+   It will be co-located with both the 11th International Symposium
+   on Frontiers of Combining Systems (FroCoS 2017) and the 8th
+   International Conference on Interactive Theorem Proving (ITP
+   2017).</p>
+
+<h2 id="topics">TOPICS</h2>
+<p>Tableau methods offer a convenient and flexible set of tools for
+   automated reasoning in classical logic, extensions of classical
+   logic, and a large number of non-classical logics. For large groups
+   of logics, tableau methods can be generated automatically. Areas
+   of application include verification of software and computer
+   systems, deductive databases, knowledge representation and its
+   required inference engines, teaching, and system diagnosis.</p>
+
+<p>Topics of interest include but are not limited to:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code> * tableau methods for classical and non-classical logics
+   (including first-order, higher-order, modal, temporal,
+   description, hybrid, intuitionistic, substructural,
+   relevance, non-monotonic logics) and their proof-theoretic
+   foundations;
+
+ * related methods (SMT, model elimination, model checking,
+   connection methods, resolution, BDDs, translation approaches);
+
+ * sequent calculi and natural deduction calculi for classical
+   and non-classical logics, as tools for proof search and proof
+   representation;
+
+ * flexible, easily extendable, light weight methods for theorem
+   proving;
+
+ * novel types of calculi for theorem proving and verification
+   in classical and non-classical logics;
+
+ * systems, tools, implementations, empirical evaluations and
+   applications (provers, logical frameworks, model checkers, ...);
+
+ * implementation techniques (data structures, efficient
+   algorithms, performance measurement, extensibility, ...);
+
+ * extensions of tableau procedures with conflict-driven
+   learning, generation of proofs; compact (or humanly readable)
+   representation of proofs;
+
+ * decision procedures, theoretically optimal procedures;
+
+ * applications of automated deduction to mathematics, software
+   development, verification, deductive and temporal
+   databases, knowledge representation, ontologies, fault
+   diagnosis or teaching.
+</code></pre></div></div>
+
+<p>We also welcome papers describing applications of tableau
+   procedures to real world examples.</p>
+
+<p>Such papers should be tailored to the tableau community and should focus on the role of
+   reasoning, and logical aspects of the solution.</p>
+
+<h2 id="celebrating-25-years">CELEBRATING 25 YEARS</h2>
+<p>To celebrate 25 years TABLEAUX the conference will include a
+   special session of invited talks by:</p>
+
+<ul>
+  <li>Reiner Hähnle   Technische Universität Darmstadt, Germany</li>
+  <li>Wolfgang Bibel  Technische Universität Darmstadt, Germany</li>
+</ul>
+
+<h2 id="invited-speakers">INVITED SPEAKERS:</h2>
+
+<ul>
+  <li>Carlos Areces      FaMAF - Universidad Nacional de Córdoba, Argentina</li>
+  <li>Katalin Bimbó      University of Alberta, Canada  (joint with FroCoS
+and ITP)</li>
+  <li>Jasmin Blanchette  Inria and LORIA, Nancy, France (joint with FroCoS
+and ITP)</li>
+  <li>Cesary Kaliszyk    Universität Innsbruck, Austria (joint with FroCoS
+and ITP)</li>
+</ul>
+
+<h2 id="workshops-and-tutorials">WORKSHOPS AND TUTORIALS</h2>
+<p>There will be a three-day programme of four workshops and four
+   tutorials from 23-25 September.</p>
+
+<h3 id="workshops">Workshops:</h3>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code> 12th Logical and Semantic Frameworks with Applications (LSFA 2017)
+ Sandra Alves, Renata Wassermann, Flávio L. C. de Moura
+ 23 and 24 September 2017
+
+ Proof eXchange for Theorem Proving (PxTP)
+ Catherine Dubois, Bruno Woltzenlogel Paleo
+ 23 and 24 September 2017
+
+ EPS - Encyclopedia of Proof Systems
+ Giselle Reis, Bruno Woltzenlogel Paleo
+ 24 and 25 September 2017
+
+ DaLí – Dynamic Logic: new trends and applications
+ Mário Benevides, Alexandre Madeira
+ 24 September 2017
+</code></pre></div></div>
+
+<h3 id="tutorials">Tutorials:</h3>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code> General methods in proof theory for modal and substructural logics
+ Björn Lellmann, Revantha Ramanayake
+ 23 September 2017
+
+ From proof systems to complexity bounds
+ Anupam Das
+ 24 September 2017
+
+ Proof Compressions and the conjecture NP = PSPACE
+ Lew Gordeev, Edward Hermann Haeusler
+ 25 September 2017
+
+ PVS for Computer Scientists
+ César Muñoz, Mauricio Ayala-Rincón, Mariano Moscato
+ 25 September 2017
+</code></pre></div></div>
+
+<p>Details will be published in separate calls and on the conference
+   website.</p>
+
+<h1 id="publication-details">PUBLICATION DETAILS</h1>
+
+<p>The conference proceedings will published in the Springer
+   LNAI/LNCS series, as in previous editions.</p>
+
+<h1 id="submissions">SUBMISSIONS</h1>
+<p>Submissions are invited in two categories:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code> A  Research papers, which describe original theoretical
+    research, original algorithms, or applications, with length
+    up to 15 pages.
+ B  System descriptions, with length up to 9 pages.
+</code></pre></div></div>
+
+<p>Submissions will be reviewed by the PC, possibly with the help of
+   external reviewers, taking into account readability, relevance
+   and originality.</p>
+
+<p>For category A, theoretical results and algorithms must be
+   original, and not submitted for publication elsewhere. Submissions
+   will be reviewed taking into account correctness, theoretical
+   elegance, and possible implementability.</p>
+
+<p>For category B submissions, a working implementation must be
+   accessible via the internet, which includes sources. The aim of a
+   system description is to make the system available in such a way
+   that users can use it, understand it, and build on it.</p>
+
+<p>Accepted papers in both categories will be published in the
+   conference proceedings. Papers must be edited in LaTeX using the
+   llncs style and must be submitted electronically as PDF files via
+   the EasyChair system: <a href="https://easychair.org/conferences/?conf=tableaux2017">https://easychair.org/conferences/?conf=tableaux2017</a></p>
+
+<p>For all accepted papers at least one author is required to attend
+   the conference and present the paper. A paper title and a short
+   abstract of about 100 words must be submitted before the paper
+   submission deadline. Further information about paper submissions
+   will be made available at the conference website. Be aware that
+   neither plagiarism, nor self-plagiarism, nor duplicate publication
+   is acceptable. Formatting instructions and the LNCS style files
+   can be obtained via <a href="http://www.springer.com/br/computer-science/lncs/conference-proceedings-guidelines">http://www.springer.com/br/computer-science/lncs/conference-proceedings-guidelines</a></p>
+
+<p>#BEST PAPER AWARD</p>
+
+<p>The TABLEAUX 2017 Best Paper Award will be presented to the best
+   submission nominated and chosen by the Program Committee among
+   the accepted papers. The eligibility criteria will place emphasis
+   on the originality and significance of the contribution, but
+   readability and the overall technical quality, including correctness
+   and completeness of results, will also be considered. The TABLEAUX
+   Best Paper Award was established in 2015 and is a permanent
+   initiative of TABLEAUX.</p>
+
+<h1 id="important-dates">IMPORTANT DATES</h1>
+<ul>
+  <li>18 Apr 2017     Abstract submission</li>
+  <li>25 Apr 2017     Paper submission</li>
+  <li>8 Jun 2017     Notification of paper decisions</li>
+  <li>3 Jul 2017     Camera-ready papers due</li>
+  <li>23-25 Sep 2017     Workshops &amp; Tutorials</li>
+  <li>25-28 Sep 2017     TABLEAUX Conference</li>
+</ul>
+
+<h1 id="program-committee">PROGRAM COMMITTEE</h1>
+<ul>
+  <li>Peter Baumgartner     National ICT Australia, Canberra</li>
+  <li>Maria Paola Bonacina  Università degli Studi di Verona</li>
+  <li>Laura Bozzelli        Universidad Politécnica de Madrid</li>
+  <li>Torben Braüner        Roskilde University</li>
+  <li>Serenella Cerrito     Ibisc, Université d’Evry Val d’Essonne</li>
+  <li>Agata Ciabattoni      Technische Universität Wien</li>
+  <li>Clare Dixon           University of Liverpool</li>
+  <li>Pascal Fontaine       LORIA, INRIA, Université de Lorraine</li>
+  <li>Didier Galmiche       LORIA, Université de Lorraine</li>
+  <li>Martin Giese          Universitetet i Oslo</li>
+  <li>Laura Giordano        DISIT, Università del Piemonte Orientale</li>
+  <li>Rajeev Gore           The Australian National University</li>
+  <li>Volker Haarslev       Concordia University</li>
+  <li>George Metcalfe       Universität Bern</li>
+  <li>Angelo Montanari      Università degli Studi di Udine</li>
+  <li>Barbara Morawska      Technische Universität Dresden</li>
+  <li>Boris Motik           University of Oxford</li>
+  <li>Leonardo de Moura     Microsoft Research</li>
+  <li>Neil Murray           SUNY at Albany</li>
+  <li>Cláudia Nalon         Universidade de Brasília</li>
+  <li>Linh Anh Nguyen       Uniwersytet Warszawski</li>
+  <li>Hans de Nivelle       Uniwersytet Wrocławski</li>
+  <li>Nicola Olivetti       LSIS, Aix-Marseille Université</li>
+  <li>Jens Otten            Universitetet i Oslo</li>
+  <li>Valeria de Paiva      Nuance Communications</li>
+  <li>Nicolas Peltier       Centre National de la Recherche Scientifique,
+                     Laboratoire d’Informatique de Grenoble</li>
+  <li>Elaine Pimentel       Universidade Federal do Rio Grande do Norte</li>
+  <li>Giselle Reis          Carnegie Mellon University-Qatar</li>
+  <li>Philipp Ruemmer       Uppsala Universitet</li>
+  <li>Katsuhiko Sano        Hokkaido University</li>
+  <li>Renate Schmidt        The University of Manchester</li>
+  <li>Cesare Tinelli        The University of Iowa</li>
+  <li>Alwen Tiu             Nanyang Technological University</li>
+  <li>David Toman           University of Waterloo</li>
+  <li>Josef Urban           České vysoké učení technické v Praze</li>
+</ul>
+
+<h1 id="local-conference-organization-committee">LOCAL CONFERENCE ORGANIZATION COMMITTEE</h1>
+<ul>
+  <li>Cláudia Nalon, Universidade de Brasília, Brazil</li>
+  <li>Daniele Nantes Sobrinho, Universidade de Brasília, Brazil</li>
+  <li>Elaine Pimentel, Universidade Federal do Rio Grande do Norte, Brazil</li>
+  <li>João Marcos, Universidade Federal do Rio Grande do Norte, Brazil</li>
+</ul>
+
+<h1 id="conference-chair">CONFERENCE CHAIR</h1>
+<ul>
+  <li>Cláudia Nalon, University of Brasília, Brazil</li>
+</ul>
+
+<h1 id="pc-chairs">PC CHAIRS</h1>
+<ul>
+  <li>Cláudia Nalon, University of Brasília, Brazil</li>
+  <li>Renate Schmidt, The University of Manchester, UK</li>
+</ul>
+:ET

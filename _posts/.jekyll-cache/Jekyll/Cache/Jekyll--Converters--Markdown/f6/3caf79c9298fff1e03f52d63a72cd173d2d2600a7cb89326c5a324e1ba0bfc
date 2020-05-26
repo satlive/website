@@ -1,0 +1,49 @@
+I"C<p>We would like to invite and encourage submissions of benchmarks and
+benchmark generators for SAT Competition 2016. Visit the <a href="http://baldur.iti.kit.edu/sat-competition-2016/">competition
+homepage</a> for details.</p>
+
+<p>Please submit benchmarks via email to organizers@satcompetition.org, 
+either via a link in the email or as an attachment (if not too large).
+Benchmark files or generators should be zipped and a short description
+of the family should be included. In particular we want benchmarks in
+the following categories:</p>
+
+<ul>
+  <li>Software verification</li>
+  <li>Hardware verification</li>
+  <li>Artificial intelligence applications (planning, scheduling, …)</li>
+  <li>Obstruction (small hard crafted problems)</li>
+  <li>Combinatorial challenges</li>
+  <li>Theorem proving</li>
+</ul>
+
+<p>We plan to have the a main track for each of the above categories
+given that there are enough benchmarks per category. We are open to
+adding a category or two if we receive many benchmarks from an
+interesting new category.</p>
+
+<p>In recent years, many dozens of solvers have been submitted, but
+relatively few benchmarks. Receiving lots of new benchmarks is crucial 
+to the success of SAT Competition 2016!</p>
+
+<p>If you would like SAT solvers to perform better on your favorite
+application, don’t hesitate and submit many benchmarks for that
+application. SAT solver developers tend to optimize their solvers for
+benchmarks used in the competition. Hence, by submitting benchmarks,
+you give an incentive to developers to optimize their solvers for your
+favorite application(s).</p>
+
+<p>SAT Competition 2016 will have an Incremental Track again. Benchmark
+submissions for this track will be highly appreciated since our current 
+collection is rather small. More information about the Incremental 
+Track and how to create benchmark applications is available here: 
+http://baldur.iti.kit.edu/sat-competition-2016/index.php?cat=incremental</p>
+
+<p>Please encourage everyone with new benchmarks to submit them to the 
+competition.</p>
+
+<p>Best regards,</p>
+
+<p>SAT Competition 2016 Organizers</p>
+
+:ET

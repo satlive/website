@@ -1,0 +1,22 @@
+I"8<p>The MaxSat Evaluation is designed to provide a snapshot of current
+progress in solving MaxSat by running submitted MaxSat solvers on a
+heterogenous collection of benchmark instances.</p>
+
+<p>MSE 2018 will be the 13th annual MaxSat Evaluation. We 
+welcome contributions of two types from the community at large:</p>
+
+<p>a) New MaxSAT benchmarks encoding instances of interesting
+     NP-hard optimization problems, and</p>
+
+<p>b) implementations of MaxSAT solvers that will be evaluated
+    within MSE 2018 on a heterogenous collection of benchmarks.</p>
+
+<h3 id="mse-2018-organizing-committee">MSE-2018 organizing committee</h3>
+
+<ul>
+  <li>Fahiem Bacchus (University of Toronto, Canada)</li>
+  <li>Matti Järvisalo (University Helsinki, Finland)</li>
+  <li>Ruben Martins (University of Texas at Austin, USA)</li>
+</ul>
+
+:ET

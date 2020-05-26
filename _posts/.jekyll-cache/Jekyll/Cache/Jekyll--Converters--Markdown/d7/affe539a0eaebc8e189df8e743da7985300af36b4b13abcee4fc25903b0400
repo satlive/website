@@ -1,0 +1,83 @@
+I"<<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>CSPSAT 2015: Call for Papers
+Fifth International Workshop on the Cross-Fertilization Between CSP and SAT
+In conjunction with CP 2015
+Cork, Ireland
+August 31, 2015
+</code></pre></div></div>
+
+<ul>
+  <li>Important Dates</li>
+  <li>Deadline for abstract submissions 	June 12, 2015</li>
+  <li>Deadline for paper submissions 	June 17, 2015</li>
+  <li>Notifications to authors 	July 5, 2015</li>
+  <li>Camera-ready copy 	July 22, 2015</li>
+  <li>CSPSAT Workshop 	August 31, 2015</li>
+</ul>
+
+<h2 id="overview-and-scope">Overview and Scope</h2>
+<p>Constraint Satisfaction Problems (CSP’s) and Boolean Satisfiability Problems (SAT) have much in common. However, they also differ in many important aspects, which result in major differences in solution techniques. More importantly, the CSP and SAT communities, while to some extent interacting with each other, are mostly separate communities with separate conferences and meetings. This workshop is designed as a venue for bridging the gap and for cross-fertilization between the two communities, in terms of ideas, problems, techniques, and results.</p>
+
+<p>The workshop, alternating between CP and SAT conferences, is the fifth in the series. It follows successful occasions at SAT’11, SAT’12, CP’13, and SAT’14.</p>
+
+<p>Topics in the scope of the workshop include:</p>
+
+<ul>
+  <li>Adaptation of CSP techniques to SAT problems</li>
+  <li>Adaptation of SAT techniques to CSP’s</li>
+  <li>Efficient translations and encodings from one framework to the other</li>
+  <li>Heterogeneous CSP/SAT problems</li>
+  <li>Hybrid CSP/SAT solvers</li>
+  <li>Local search in CSP and SAT</li>
+  <li>Parallelization and real-time competition between CSP and SAT solvers, cross-talk between the solvers</li>
+  <li>Commonalities and differences in the theory of CSP and SAT solving</li>
+  <li>Intermediate problems (e.g., satisfiability modulo theories, pseudo-Boolean) and their relations to both CSP and SAT</li>
+  <li>Applications: ways to determine which framework works best for which application</li>
+  <li>Additional related topics</li>
+</ul>
+
+<h2 id="submissions">Submissions</h2>
+
+<p>Authors should prepare their papers in the LNCS/LNAI format, following Springer’s instructions. Submissions can be of one of the following types:</p>
+
+<ul>
+  <li>Full papers, maximum of 15 pages excluding references.</li>
+  <li>Short papers, maximum of 5 pages excluding references.</li>
+</ul>
+
+<p>Authors should indicate whether the submitted work has been published or accepted for publication elsewhere. Priority will be given to original full papers and also to important work recently presented in other venues. Each submission should identify one contact author, and provide the email address and phone number of this author. Abstracts and papers should be submitted via EasyChair:
+CSPSAT 2015 Submission at EasyChair</p>
+
+<p>All submissions will be reviewed by at least two members of the program committee or their delegates. Decisions about acceptance or rejection will be made considering both the merit of the work and the available time for presentations. At least one author of each accepted submission must attend the workshop. Original papers will be
+published on the workshop website following the workshop.</p>
+
+<h2 id="organizing-committee">Organizing Committee</h2>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Yael Ben-Haim, IBM Research
++972-4-829-6263
+yaelbh@il.ibm.com
+
+Valentin Mayer-Eichberger
+vale1410@gmail.com
+
+Yehuda Naveh, IBM Research
++972-4-829-6381
+naveh@il.ibm.com
+</code></pre></div></div>
+
+<h2 id="program-committee">Program Committee</h2>
+
+<ul>
+  <li>Yael Ben-Haim, IBM Research, Israel</li>
+  <li>Alan Frisch, University of York, UK</li>
+  <li>Enrico Giunchiglia, University of Genova, Italy</li>
+  <li>George Katsirelos, INRA, France</li>
+  <li>Valentin Mayer-Eichberger, NICTA and University of New South Wales, Australia</li>
+  <li>Ian Miguel, University of St Andrews, UK</li>
+  <li>Nina Narodytska, Carnegie Mellon University, USA</li>
+  <li>Yehuda Naveh, IBM Research, Israel</li>
+  <li>Steve Prestwich, University College Dublin, Ireland</li>
+  <li>Bart Selman, Cornell University, USA</li>
+  <li>Ofer Strichman, Technion, Israel</li>
+  <li>Toby Walsh, NICTA and University of New South Wales, Australia</li>
+</ul>
+:ET

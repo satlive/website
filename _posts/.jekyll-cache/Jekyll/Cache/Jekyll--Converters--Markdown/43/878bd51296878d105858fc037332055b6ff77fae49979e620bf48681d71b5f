@@ -1,0 +1,50 @@
+I"�	<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>CALL FOR CONTRIBUTIONS
+
+Configurable SAT Solver Challenge (CSSC) 2014
+
+Event affiliated with SAT 2014 conference
+
+July 14 - 17, 2014, Vienna, Austria
+</code></pre></div></div>
+
+<p>Most modern SAT solvers have a large number of parameters that can be altered to adjust their behavior and performance. Following last year’s inaugural Configurable SAT Solver Challenge (CSSC), we will hold CSSC 2014, a competitive event that assesses the <em>peak performance</em> of such parametric solvers (i.e. performance with optimized parameters). Thereby, CSSC recognizes that the value of a SAT solver for a given application is often is due to its customizability rather than just its performance in a default configuration.</p>
+
+<p>To obtain a good approximation of the peak performance attainable in practice, we will use a fixed computational budget to optimize parameter settings with state-of-the-art software (so-called “algorithm configuration” procedures) recently developed by several groups.</p>
+
+<p>We will reward SAT solvers that can be flexibly configured to perform well in different circumstances (as opposed to having one single best configuration). The results will be presented at this year’s SAT conference.</p>
+
+<p>We invite submissions of both configurable SAT solvers and benchmark instance generators. Although we will accept closed-source solvers, only open-source submissions will be eligible for awards. To minimize the overhead for solver designers, the deadlines are arranged to fall just after those of the SAT competition.</p>
+
+<p>More details about the submission process, and the rules of the competition, can be found on our website: http://aclib.net/cssc2014/</p>
+
+<h2 id="important-dates">Important Dates</h2>
+
+<p>May 18: submission deadline for solvers and benchmarks</p>
+
+<p>July 14-17: presentation of results during SAT 2013 conference</p>
+
+<h2 id="organizers">Organizers</h2>
+
+<ul>
+  <li>
+    <p>Frank Hutter (University of Freiburg)</p>
+  </li>
+  <li>
+    <p>Marius Lindauer (University of Freiburg)</p>
+  </li>
+  <li>
+    <p>Sam Bayless (University of British Columbia)</p>
+  </li>
+  <li>
+    <p>Holger Hoos (University of British Columbia)</p>
+  </li>
+  <li>
+    <p>Kevin Leyton-Brown (University of British Columbia)</p>
+  </li>
+</ul>
+
+<h2 id="contact">Contact</h2>
+
+<p>cssc.organizers@gmail.com
+http://aclib.net/cssc2014/</p>
+:ET

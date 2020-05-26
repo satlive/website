@@ -1,0 +1,37 @@
+I"#<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>******************************************************************
+QBFEVAL'17 - Competitive evaluation of QBF solvers
+http://www.qbflib.org/qbfeval17.php
+
+Preliminary Call for Benchmarks
+
+A joint event with SAT 2017 - The 20th International Conference on Theory and Applications of Satisfiability Testing, 28 August - 1 September 2017, Melbourne, Australia 
+
+******************************************************************
+</code></pre></div></div>
+
+<p>QBFEVAL’17 will be the 2017 competitive evaluation of QBF solvers, and the twelfth evaluation of QBF solvers and instances ever. QBFEVAL’17 will award solvers that stand out as being particularly effective on specific categories of QBF instances.</p>
+
+<p>People using QBF-based techniques in their area (e.g., formal verification, planning, knowledge reasoning) are invited to contribute to the evaluation by submitting QBF instances of their research problems. Instances can be submitted in <a href="http://www.qbflib.org/qdimacs.html">QDIMACS 1.1 input format</a> and/or in <a href="http://qbf.satisfiability.org/gallery/qcir-gallery14.pdf">QCIR input format</a>.</p>
+
+<p>The deadline for benchmarks submission is May 15th 2017.</p>
+
+<p>For details, questions, comments and any other issue regarding QBFEVAL’17, please get in touch with qbf17@qbflib.org.</p>
+
+<h2 id="organizing-committee">Organizing committee</h2>
+
+<h3 id="organization">Organization</h3>
+
+<ul>
+  <li>Luca Pulina, University of Sassari</li>
+  <li>Martina Seidl, Johannes Kepler Universität Linz</li>
+</ul>
+
+<h3 id="judges">Judges</h3>
+
+<ul>
+  <li>Olaf Beyersdorff, University of Leeds</li>
+  <li>Daniel Le Berre, Université d’Artois</li>
+  <li>Christoph Wintersteiger, Microsoft Research Limited</li>
+</ul>
+
+:ET

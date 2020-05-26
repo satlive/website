@@ -1,0 +1,25 @@
+I"�<p>QBFEVAL’20 is the 2020 competitive evaluation of QBF solvers, and the fifteenth event aimed to assess the performance of QBF solvers. QBFEVAL’20 awards solvers that stand out as being particularly effective on specific categories of QBF instances. We warmly encourage developers of QBF solvers to submit their work, even at early stages of development, as long as it fulfills some very simple requirements. We also welcome the submission of QBF formulas to be used for the evaluation. Researchers thinking about using QBF-based techniques in their area (e.g., formal verification, planning, knowledge representation &amp; reasoning) are invited to contribute to the evaluation by submitting QBF instances of their research problems (see the requirements for instances). The results of the evaluation will be a good indicator of the current feasibility of QBF-based approaches and a stimulus for people working on QBF solvers to further enhance their tools.</p>
+
+<p>For questions, comments and any other issue regarding QBFEVAL’20, please get in touch with the organizers via qbfeval@qbflib.org.</p>
+
+<h3 id="important-dates">Important Dates</h3>
+
+<ul>
+  <li>Registration deadline: April 19, 2020</li>
+  <li>Solvers and Benchmarks due: April 26, 2020</li>
+  <li>First stage results: May 3, 2020</li>
+  <li>Second stage solvers due: May 17, 2020</li>
+  <li>Competition Benchmarks available for download: July 1, 2020</li>
+  <li>Final results: presented at SAT’20</li>
+</ul>
+
+<h3 id="qbfeval20-tracks">QBFEVAL’20 Tracks</h3>
+
+<ul>
+  <li>Prenex CNF</li>
+  <li>Crafted Instances Track (Prenex CNF)</li>
+  <li>Prenex non-CNF</li>
+  <li>DQBF Solvers</li>
+  <li>Parallel Track</li>
+</ul>
+:ET

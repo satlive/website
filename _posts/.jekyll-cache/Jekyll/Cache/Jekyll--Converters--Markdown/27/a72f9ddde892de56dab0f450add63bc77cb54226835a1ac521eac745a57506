@@ -1,0 +1,53 @@
+I"a<h3 id="overview">Overview</h3>
+
+<p>A well-established way of describing the structure of SAT instances is to consider different graphs or hypergraphs that encode the interaction of the variables in CNF formulas. These graph structures have seen interest in the last few years both from theory and practice of SAT solving. For example, many tractable classes of SAT and related problems are characterized by restrictions of the underlying graph or hypergraph structure whereas lower bounds in proof complexity and knowledge compilation often use graphs that in a certain well-defined sense lack this structure. On the more practical side, it has been shown that good performance of CDCL solvers on practical SAT instances is related to the community structure of the underlying graphs. Moreover, graphs play a crucial role in some successful variable choice heuristics. Yet another connection between SAT and graph theory is the increasing use of SAT solvers in combinatorial problems, for instance in Ramsey theory.</p>
+
+<p>The goal of the International Workshop on Graph Structure and Satisfiability Testing is to bring together researchers from different areas in which there is an interaction between graph structure and problems related to propositional satisfiability. The aim is to foster exchange between these areas by presenting different perspectives, results and current challenges.</p>
+
+<p>The workshop will feature one 50-minute invited talk and several short contributed talks highlighting different perspectives.</p>
+
+<h3 id="invited-speaker">Invited Speaker</h3>
+
+<p>Stefan Szeider (TU Wien)</p>
+
+<h3 id="call">Call</h3>
+
+<p>We solicit contributions in the form of 1-2-page extended abstracts concerned with all aspects of current research that relates graphs and SAT, interpreted in a broad sense. Since there will be no proceedings, we explicitly solicit the submission of talk abstracts describing already published work and work in progress which falls into the scope of our workshop.</p>
+
+<p>The topics of interest include (but are not limited to) the following:</p>
+
+<ul>
+  <li>SAT algorithms based on graph structure</li>
+  <li>Model counting</li>
+  <li>Knowledge compilation</li>
+  <li>Proof complexity</li>
+  <li>Practical evaluation of graph based algorithms</li>
+  <li>Variable choice heuristics</li>
+  <li>Propagation algorithms</li>
+  <li>Analysis and visualization of the structure of practical instances</li>
+  <li>Applications of SAT-based techniques to combinatorial problems</li>
+</ul>
+
+<p>The submission will be managed via Easychair.</p>
+
+<p>Authors of accepted abstracts are expected to give a talk at the workshop.</p>
+
+<h3 id="important-dates">Important Dates</h3>
+
+<ul>
+  <li>April, 29th, 2016: Submission</li>
+  <li>June, 1st, 2016: Notification</li>
+  <li>July, 4th, 2016: Workshop</li>
+</ul>
+
+<h3 id="program-committee">Program Committee</h3>
+
+<ul>
+  <li>Gilles Audemard, CRIL, Université d’Artois</li>
+  <li>Simone Bova, TU Wien (organizer)</li>
+  <li>Massimo Lauria, Universitat Politecnica de Catalunya</li>
+  <li>Stefan Mengel, CNRS, CRIL (organizer)</li>
+  <li>Igor Razgon, Birkbeck, University of London</li>
+</ul>
+
+:ET

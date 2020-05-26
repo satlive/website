@@ -1,0 +1,176 @@
+I"ó<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>----------------------------------------------------------------------
+             CALL FOR PAPERS
+
+                QBF 2016
+                --------
+       4th International Workshop on 
+  Quantified Boolean Formulas (and Beyond)
+
+      Bordeaux, France, July 4, 2016
+        http://fmv.jku.at/qbf16/
+
+
+     Affiliated to and co-located with: 
+           SAT 2016 conference
+     Bordeaux, France, July 5-8, 2016
+----------------------------------------------------------------------
+</code></pre></div></div>
+
+<p>Quantified Boolean formulas (QBF) are an extension of propositional
+logic which allows for explicit quantification over propositional
+variables. The decision problem of QBF is PSPACE-complete compared to
+NP-completeness of the decision problem of propositional logic (SAT).</p>
+
+<p>Many problems from application domains such as model checking, formal
+verification or synthesis are PSPACE-complete, and hence could be
+encoded in QBF. Considerable progress has been made in the theory and
+practice of QBF solving throughout the past years.</p>
+
+<p>As the efforts of extending languages with quantifiers have not only
+been made for propositional logic in terms of QBFs, but in many other
+formalism like Constraint Satisfaction Problem (CSP) and
+Satisfiability Modulo Theories (SMT), QBF 2016 also targets
+researchers working in these related fields in order to exchange
+experiences and ideas.</p>
+
+<p>The goal of the International Workshop on Quantified Boolean Formulas
+(and Beyond) is to bring together researchers working on theoretical
+and practical aspects of QBF solving and related formalisms involving
+quantifiers. The workshop addresses theoreticians and practitioners in
+order to reflect on the state of the art in research and to
+consolidate on immediate and long-term challenges.</p>
+
+<h3 id="important-dates">IMPORTANT DATES</h3>
+
+<p>Please follow http://fmv.jku.at/qbf16/ for any updates.</p>
+
+<ul>
+  <li>April     20 2016: paper submission</li>
+  <li>May       23 2016: notification of acceptance</li>
+  <li>June      20 2016: camera-ready version of papers</li>
+  <li>July       4 2016: workshop</li>
+</ul>
+
+<h3 id="topics-of-interest">TOPICS OF INTEREST</h3>
+
+<p>The workshop is concerned with all aspects of current research on
+formalisms enriched by quantifiers, in particular QBF. The topics of
+interest include (but are not limited to):</p>
+
+<ul>
+  <li>
+    <p>Applications, encodings and benchmarks with quantifiers</p>
+  </li>
+  <li>
+    <p>Experimental evaluations of solvers or related tools</p>
+  </li>
+  <li>
+    <p>Case studies illustrating the power of quantifiers</p>
+  </li>
+  <li>
+    <p>Certificates and proofs for QBF, QSMT, QCSP, etc.</p>
+  </li>
+  <li>
+    <p>Formats of proofs and certificates</p>
+  </li>
+  <li>
+    <p>Implementations of proof checkers and verifiers</p>
+  </li>
+  <li>
+    <p>Decision procedures</p>
+  </li>
+  <li>
+    <p>Calculi and their relationships</p>
+  </li>
+  <li>
+    <p>Proof theory and complexity results</p>
+  </li>
+  <li>
+    <p>Data structures, implementation details, and heuristics</p>
+  </li>
+  <li>
+    <p>Pre- and inprocessing techniques</p>
+  </li>
+  <li>
+    <p>Structural reasoning</p>
+  </li>
+</ul>
+
+<h3 id="paper-submission">PAPER SUBMISSION</h3>
+
+<p>Submissions of papers will be managed via Easychair:
+https://easychair.org/conferences/?conf=qbf2016</p>
+
+<p>We solicit paper submissions in the following categories:</p>
+
+<ul>
+  <li>talk-only papers: 2-4 pages</li>
+  <li>full papers: up to 12 pages</li>
+  <li>short tutorial presentation: 2-4 pages</li>
+</ul>
+
+<p>Page limits do not include references and optional appendices.</p>
+
+<p>Talk-only papers present work that has been published already, novel
+unpublished work, or work in progress. We explicitly solicit the
+submission of talk-only papers describing work that has been published
+at other venues and which falls into the scope of the workshop.</p>
+
+<p>Full papers describe novel, unpublished work, including work in
+progress.</p>
+
+<p>Authors are encouraged to provide additional material such as source
+code of tools, experimental data, benchmarks and related publications.</p>
+
+<p>We plan to publish the accepted papers (except talk-only papers) in
+CEUR workshop proceedings, which are indexed with an ISSN.</p>
+
+<p>NEW: we solicit proposals for short tutorial presentations on topics
+related to the workshop. Tutorial proposals will be reviewed by the
+PC. The number of accepted tutorials depends on the overall number of
+accepted papers and talks, with the aim to set up a balanced workshop
+program.</p>
+
+<p>Submissions which describe novel applications of QBF in various
+domains are particularly welcome. Additionally, this call comprises
+known applications which have been shown to be hard for QBF solvers in
+the past as well as new applications for which present QBF solvers
+might lack certain features still to be identified.</p>
+
+<p>Previously published work or extensions thereof may be submitted to
+the workshop but that case has to be explicitly stated in the
+submitted paper. This regulation also applies to work which is
+currently under review elsewhere.</p>
+
+<p>Authors of accepted papers are expected to give a talk at the
+workshop.</p>
+
+<p>A short abstract of each talk given at the workshop will be published
+on the workshop webpage.</p>
+
+<h3 id="program-chairs">PROGRAM CHAIRS</h3>
+
+<ul>
+  <li>
+    <p>Florian Lonsing
+  Vienna University of Technology, Austria</p>
+  </li>
+  <li>
+    <p>Martina Seidl         <br />
+  Johannes Kepler University Linz, Austria</p>
+  </li>
+</ul>
+
+<h3 id="program-committee">PROGRAM COMMITTEE</h3>
+
+<ul>
+  <li>Fahiem Bacchus, University of Toronto, Canada</li>
+  <li>Olaf Beyersdorff, University of Leeds, UK</li>
+  <li>Jasmin Christian Blanchette, Inria Nancy and LORIA, France</li>
+  <li>Hubie Chen, Universidad del Pais Vasco and Ikerbasque, Spain</li>
+  <li>Marijn Heule, The University of Texas at Austin, USA</li>
+  <li>Jie-Hong Roland Jiang, National Taiwan University, Taiwan</li>
+  <li>Friedrich Slivovsky, TU Wien, Austria</li>
+</ul>
+
+:ET

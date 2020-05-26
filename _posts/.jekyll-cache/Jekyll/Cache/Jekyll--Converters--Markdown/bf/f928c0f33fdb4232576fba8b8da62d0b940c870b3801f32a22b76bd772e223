@@ -1,0 +1,30 @@
+I"J<p>SAT-Race 2015 is a competitive event for solvers of the Boolean Satisfiability (SAT) problem. It is organized as a satellite event to the 18th International Conference on Theory and Applications of Satisfiability Testing, September 24-27, 2015, Austin, Texas, USA and stands in the tradition of the yearly SAT Competitions and SAT-Races / Challenges. In contrast to the SAT Competitions, the focus of SAT-Race is on application benchmarks only.</p>
+
+<p>The area of SAT Solving has seen tremendous progress over the last years. Many problems (e.g. in hardware and software verification) that seemed to be completely out of reach a decade ago can now be handled routinely. Besides new algorithms and better heuristics, refined implementation techniques turned out to be vital for this success.</p>
+
+<p>To keep up the driving force in improving SAT solvers, we want to motivate implementors to present their work to a broader audience and to compare it with that of others.</p>
+
+<p>SAT-Race 2015 is featuring two traditional tracks:</p>
+
+<ul>
+  <li>Sequential Application SAT+UNSAT Track</li>
+  <li>Parallel Application SAT+UNSAT Track</li>
+</ul>
+
+<p>and introducing:</p>
+
+<ul>
+  <li>Incremental Library Track</li>
+</ul>
+
+<p>Important Dates:</p>
+
+<ul>
+  <li><strong>July 1</strong>	Benchmark Submission Deadline</li>
+  <li><strong>July 15</strong>	Solver Registration Deadline</li>
+  <li><strong>August 1</strong>	Solver Submission Deadline (final version)</li>
+</ul>
+
+<p>The submission of solvers and benchmarks is already available. The results of the race will be announced at the SAT’15 Conference.</p>
+
+:ET

@@ -1,0 +1,110 @@
+I"�<p>4th International Workshop on Satisfiability Checking and Symbolic Computation, Wed. 10 July 2019, University of Bern, Switzerland.</p>
+
+<p>The 4th SC-Square Workshop is a minisymposium at: SIAM Conference on Applied Algebraic Geometry 2019, Bern, Switzerland, 9–13 July 2019.</p>
+
+<p><a href="https://mathsites.unibe.ch/siamag19/">Main conference website</a></p>
+
+<p><a href="http://www.sc-square.org/CSA/workshop4.html">SC-Square Workshop website</a></p>
+
+<h3 id="key-dates">Key Dates</h3>
+
+<ul>
+  <li>Submission deadline  Sat.  20 April 2019</li>
+  <li>Notification         Sat.  18   May 2019</li>
+  <li>Final version        Fri.  31   May 2019</li>
+  <li>Workshop date        Wed.  10  July 2019</li>
+</ul>
+
+<h3 id="scope">Scope</h3>
+
+<p>Symbolic Computation is concerned with the efficient algorithmic
+determination of exact solutions to complicated mathematical problems.
+Satisfiability Checking has recently started to tackle similar problems
+but with different algorithmic and technological solutions.</p>
+
+<p>The two communities share many central interests, but researchers from
+these two communities rarely interact.  Also, the lack of common or
+compatible interfaces for tools is an obstacle to their fruitful
+combination.  Bridges between the communities in the form of common
+platforms and road-maps are necessary to initiate an exchange, and to
+support and direct their interaction.  The aim of this workshop is to
+provide an opportunity to discuss, share knowledge and experience across
+both communities.</p>
+
+<h3 id="submitting-to-the-workshop">Submitting to the Workshop</h3>
+
+<p>The workshop is open for submission and participation to everyone
+interested in the topics, whether or not they were members or associates
+of the (now finished) H2020 FETOPEN CSA project “SC-Square”.</p>
+
+<p>The topics of interest include but are not limited to:</p>
+
+<ul>
+  <li>Satisfiability Checking for Symbolic Computation</li>
+  <li>Symbolic Computation for Satisfiability Checking</li>
+  <li>Applications relying on both Symbolic Computation and Satisfiability Checking</li>
+  <li>Combination of Symbolic Computation and Satisfiability Checking tools</li>
+  <li>Decision procedures and their embedding into SMT solvers and computer algebra systems</li>
+</ul>
+
+<h3 id="submission-guidelines">Submission guidelines</h3>
+
+<p>Submissions should be in English, formatted in Springer LNCS style and
+submitted via <a href="https://easychair.org/conferences/?conf=scsquare2019">EasyChair using this link</a></p>
+
+<p>We invite three types of submissions:</p>
+
+<ol>
+  <li>NORMAL PAPERS, describing research not published or submitted elsewhere (with a limit of 15 pages).</li>
+  <li>EXTENDED ABSTRACTS, may be position papers, description of research prospects, challenges, projects, ongoing works, or applications relevant to SC-square (with a limit of 8 pages).</li>
+  <li>POSTERS</li>
+</ol>
+
+<p>To receive the appropriate level of peer review, please declare your
+category of your submission by prefixing the title on the EasyChair form
+with “NP”, “EA” or “PO” accordingly.</p>
+
+<p>For consistency, all submissions must use the LNCS style.  The style
+files <a href="ftp://ftp.springernature.com/cs-proceeding/llncs/llncs2e.zip">are here</a></p>
+
+<p>We plan to publish the proceedings of the workshop digital form, hosted
+with <a href="http://ceur-ws.org/">CEUR-WS</a>.  Authors may opt out of this,
+should they prefer to publish the material elsewhere.</p>
+
+<p>People from industry and business are warmly invited to submit papers to
+describe their problems, challenges, goals, and expectations for the
+SC-square community.</p>
+
+<h3 id="workshop-co-chairs">Workshop Co-Chairs</h3>
+
+<ul>
+  <li>John Abbott (Universitaet Passau, Germany)</li>
+  <li>Alberto Griggio (Fondazione Bruno Kessler, Italy)</li>
+</ul>
+
+<h3 id="program-committee">Program Committee</h3>
+
+<ul>
+  <li>Erika Ábrahám  (RWTH Aachen)</li>
+  <li>Martin Brain  (Univ. Oxford)</li>
+  <li>Matthew England  (Coventry University)</li>
+  <li>Konstantin Korovin  (Univ. Manchester)</li>
+  <li>Laura Kovacs  (TU Wien, Vienna)</li>
+  <li>David Monniaux (Univ. Grenoble)</li>
+  <li>Stefan Ratschan  (Acad. Sci. Prague)</li>
+  <li>Thomas Sturm  (CNRS Nancy)</li>
+</ul>
+
+<h3 id="earlier-workshops-in-the-series">Earlier Workshops in the series</h3>
+
+<p>This is the 4th workshop in the series (originally created by the
+H2020 FETOPEN CSA Project “SC-Square”):</p>
+
+<ol>
+  <li>the First SC2 Workshop took place in Timisoara, Romania in 2016;</li>
+  <li>the Second SC2 Workshop took place in Kaiserslautern, Germany in 2017;</li>
+  <li>the Third SC2 Workshop took place in Oxford, UK in 2018.</li>
+</ol>
+
+<p>See <a href="http://www.sc-square.org/">SC-Square main website</a></p>
+:ET

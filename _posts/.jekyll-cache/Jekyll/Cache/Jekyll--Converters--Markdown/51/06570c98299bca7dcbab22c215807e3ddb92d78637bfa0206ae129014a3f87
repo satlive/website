@@ -1,0 +1,112 @@
+I"�<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Call for Papers *** Submission deadline June 25, 2017 *** 
+
+               Special Track on SAT and CSP 
+
+                                 at the 
+
+29th IEEE International Conference on Tools with Artificial Intelligence
+IEEE ICTAIí2017, Boston, MA, USA, November 06-08, 2017
+</code></pre></div></div>
+
+<p>Constraint Programming (CP) and Boolean Satisfiability (SAT) are two related
+major topics of research in Artificial Intelligence.  They have proved to be
+the most efficient techniques at the heart of general-purpose combinatorial
+problem solving, with application ranging from automation of logics,
+verification, planning and scheduling, both in academic research and industry.</p>
+
+<p>Over the years, the ICTAI conference has become a major forum for the CSP and
+SAT research communities for presenting new high-quality results.  The special
+track SAT/CSP@ICTAI2017 is intended to be a forum for new ideas and techniques
+using satisfiability and constraint solving.  It particularly welcomes new core
+solving techniques, extensions to other domains of AI and applications.</p>
+
+<h1 id="topics">Topics</h1>
+<p>Topics of interest include, but are not limited to:</p>
+
+<ul>
+  <li>SAT, SMT and CSP Solvers</li>
+  <li>Modeling, methodologies and tools</li>
+  <li>Implementation of solvers and global constraints</li>
+  <li>Applications of CSP and SAT-based technologies</li>
+  <li>Complete, incomplete and hybrid search techniques, heuristics, metaheuristics</li>
+  <li>AI techniques based on SAT and CSP</li>
+  <li>Tractable classes of problems, FPT, decompositions</li>
+  <li>Soft and weighted constraints, optimization, MAX-SAT, MAX-CSP</li>
+  <li>Machine learning, deep learning in SAT and CSP</li>
+  <li>Social network engineering with SAT and CSP</li>
+</ul>
+
+<h1 id="submissions">Submissions</h1>
+
+<p>Papers must be full papers up to 8 pages and follow the standard IEEE formatting
+instructions for conference papers (single-spaced, double-column, 10-point font
+size).</p>
+
+<p>Papers must be submitted in pdf only through the Easychair special track
+submission page (https://www.easychair.org/conferences/?conf=ictai2017).  See
+submission instructions in http://ictai2017.org/submission.htm</p>
+
+<p>All papers will be reviewed by at least three members of the program committee.
+Papers must report high-quality original work, be unpublished and not submitted
+elsewhere during the whole ICTAI review process.</p>
+
+<p>Each accepted paper must be presented by one of the authors and accompanied by
+at least one full ICTAI 2017 registration fee payment, to guarantee publication
+in the proceedings.</p>
+
+<h1 id="proceedings-and-special-journal-issue">Proceedings and Special Journal Issue</h1>
+
+<p>All papers accepted in the CSP and SAT technologies special track will be
+included in the ICTAI 2017 main proceedings published by the IEEE Computer
+Society.  Extended versions of the best papers are expected to be invited for
+publication in a special issue of an international journal after an additional
+round of reviews.</p>
+
+<h1 id="important-dates">Important Dates</h1>
+
+<ul>
+  <li>Paper submission: June 25,   2017</li>
+  <li>Notification:     July 25,   2017</li>
+  <li>Camera-ready:     August 25, 2017</li>
+</ul>
+
+<h1 id="program-committee">Program Committee</h1>
+
+<ul>
+  <li>André      Abramé       University of Marseille</li>
+  <li>Salvador   Abreu        University of Evora</li>
+  <li>Gilles     Audemard     Artois University</li>
+  <li>Belaid     Benhamou     University of Marseille</li>
+  <li>Armin      Biere        Johannes Kepler University</li>
+  <li>Stefano    Bistarelli   University of Perugia</li>
+  <li>Remi       Coletta      University of Montpellier</li>
+  <li>Arnaud     Gotlieb      Simula Research Lab</li>
+  <li>Marijn     Heule        The University of Texas at Austin</li>
+  <li>Matti      Järvisalo    University of Helsinki</li>
+  <li>George     Katsirelos   INRA, Toulouse</li>
+  <li>Jean-Marie Lagniez      Artois University (co-chair)</li>
+  <li>Arnaud     Lallouet     Huawei Technolohies Ltd (co-chair)</li>
+  <li>Christophe Lecoutre     Artois University</li>
+  <li>Jimmy      Lee          The Chinese University of Hong Kong</li>
+  <li>Toni       Mancini      Sapienza University of Rome</li>
+  <li>Felip      Manya        IIIA-CSIC, Barcelona</li>
+  <li>Deepak     Mehta        University College Cork</li>
+  <li>Pedro      Meseguer     IIIA-CSIS, Barcelona</li>
+  <li>Eric       Monfroy      University of Nantes</li>
+  <li>Marie      Pelleau      University of Paris 6</li>
+  <li>Luis       Quesada      Insight Centre</li>
+  <li>Lakhdar    Sais         Artois University</li>
+  <li>Frederic   Saubion      University of Angers</li>
+  <li>Carsten    Sinz         Karlsruhe Institute of Technology</li>
+  <li>Christine  Solnon       INSA de Lyon</li>
+  <li>Thomas     St¸tzle      UniversitÈ Libre de Bruxelles</li>
+  <li>Naoyuki    Tamura       Kobe University</li>
+  <li>Miroslav   Velev        Aries Design Automation</li>
+  <li>Brent      Venable      Tulane University</li>
+</ul>
+
+<h1 id="contact">Contact</h1>
+
+<p>For reaching the PC Chairs (Jean-Marie Lagniez and Arnaud Lallouet), please send
+an email to lagniez@cril.fr, arnaud.lallouet@huawei.com</p>
+:ET

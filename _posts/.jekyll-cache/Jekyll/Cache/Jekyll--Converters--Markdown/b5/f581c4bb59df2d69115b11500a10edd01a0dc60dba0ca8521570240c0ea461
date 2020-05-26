@@ -1,0 +1,104 @@
+I"K<p>First Workshop on Bridging the Gap Between Theory and Practice in Constraint Solvers</p>
+
+<p>This one-day workshop will be held at <a href="http://cp2014.a4cp.org">CP 2014, the 20th International Conference on Principles and Practice of Constraint Programming</a>, on Monday 8 September 2014 in Lyon, France.</p>
+
+<h2 id="aims-and-scope">Aims and scope</h2>
+
+<p>For several years now, CP and SAT solvers have made tremendous advances that allow them to solve very large instances.
+If the methods used to achieve this efficiency in practice are well-known, there does not exist to date any analytical explanation to justify the operational efficiency that seems totally at odds with the theoretical complexity of the problems addressed.</p>
+
+<p>On the other hand, many studies have been developed for a long time on the detection of tractable classes in different areas or formalisms such as CSP, SAT, in planning, etc.
+But these tractable classes are hardly ever used in practice and thus are generally not explicitly implemented in the solvers.</p>
+
+<p>However, these two bodies of work seem to have been developed in parallel rather than in synergy, creating a real gap between these two aspects of constraint programming.
+The purpose of this workshop is to better understand the reasons for the effectiveness of solvers, and also promote exchanges between researchers from both sides of the CP communities with the aim to reduce the gap between these two types of work.</p>
+
+<p>The expected contributions cover a wide spectrum ranging from theoretical works on tractable classes, to implementations of solvers. They also concern the work on performance analysis of solvers. And ideally, work on the study of the properties explaining the behavior of efficient solvers.
+We solicit original papers, but papers already published in journals or presented in conferences, particularly if they associate theory and practice are welcome.
+This call for papers also includes position papers aimed at creating constructive and fruitful discussion between researchers working in theory and practice.
+The workshop will be held as a full-day or half-day workshop. Please note that workshop-participants need to be registered for the workshop.</p>
+
+<p>This workshop would like to bring together researchers interested in :</p>
+<ul>
+  <li>implementation of solvers</li>
+  <li>optimization of solvers</li>
+  <li>analysis of solvers</li>
+  <li>study and analysis of benchmarks</li>
+  <li>experimentations</li>
+  <li>analysis of practical efficiency</li>
+  <li>competition of solvers</li>
+  <li>complexity analysis</li>
+  <li>tractability</li>
+  <li>tractable classes</li>
+  <li>complexity theory</li>
+</ul>
+
+<h2 id="sponsorship">Sponsorship</h2>
+
+<p>This workshop is sponsored by the Project TUPLES (http://www.lsis.org/tuples/) :
+Tractability for Understanding and Pushing forward the Limits of Efficient Solvers
+of the French National Agency for Research.</p>
+
+<h2 id="important-dates">Important Dates</h2>
+
+<p>Submission date: June 30, 2014
+Notification of acceptance: July 25, 2014
+Camera ready version: August 15, 2014
+Workshop day: September 8, 2014</p>
+
+<h2 id="submission">Submission</h2>
+
+<p>Submissions must be formatted in the Lecture Notes in Computer Science (LNCS) style and must be at most 15 pages, excluding references. Submissions of short papers (no constraint for their lenght), including position papers, are welcome.
+Papers must be submitted in PDF format by email to bgbtp.cp2014@gmail.com.
+All submissions will be reviewed and those that are well-written and make a worthwhile contribution to the topic of the workshop will be accepted for publication in the workshop proceedings. The proceedings will be available electronically at CP 2014. At least one author of each accepted paper must attend the workshop. Please note that every workshop participant needs to be registered for the workshop.</p>
+
+<h2 id="invited-speaker">Invited speaker</h2>
+
+<p>Joao Marques-Silva
+Complex and Adaptive Systems Laboratory (CASL),
+School of Computer Science and Informatics (CSI)
+University College Dublin Belfield,
+Dublin, Ireland</p>
+
+<h2 id="organizers">Organizers</h2>
+
+<ul>
+  <li>
+    <p>Philippe Jégou (main contact), LSIS - UMR CNRS 7296, Universite d’Aix-Marseille, France
+philippe.jegou@univ-amu.fr</p>
+  </li>
+  <li>
+    <p>Martin Cooper, IRIT, Université de Toulouse III, France
+cooper@irit.fr</p>
+  </li>
+  <li>
+    <p>Lakhdar Saïs, CRIL - CNRS, UMR 8188, Université Lille Nord de France, Artois, France
+sais@cril.fr</p>
+  </li>
+  <li>
+    <p>Bruno Zanuttini, GREYC - UMR CNRS 6072, Universite de Caen Basse-Normandie, France
+bruno.zanuttini@unicaen.fr</p>
+  </li>
+</ul>
+
+<h2 id="program-committee">Program Committee</h2>
+
+<ul>
+  <li>David Cohen (Royal Holloway, University of London, UK)</li>
+  <li>Martin Cooper (IRIT-CNRS, Université de Toulouse III, France)</li>
+  <li>Stéphane Grandcolas (LSIS-CNRS, Universite d’Aix-Marseille, France)</li>
+  <li>Emmanuel Hébrard (LAAS-CNRS, France)</li>
+  <li>Peter Jeavons (University of Oxford, UK)</li>
+  <li>Philippe Jégou (LSIS-CNRS, Universite d’Aix-Marseille, France)</li>
+  <li>Daniel Le Berre (CRIL-CNRS, Université Lille Nord de France, Artois, France)</li>
+  <li>Fred Maris (IRIT-CNRS, Université de Toulouse III, France)</li>
+  <li>Pierre Marquis (CRIL-CNRS, Université Lille Nord de France, Artois, France)</li>
+  <li>Bertand Mazure (CRIL-CNRS, Université Lille Nord de France, Artois, France)</li>
+  <li>Cyril Pain-Barre (LSIS-CNRS, Universite d’Aix-Marseille, France)</li>
+  <li>Lionel Paris (LSIS-CNRS, Universite d’Aix-Marseille, France)</li>
+  <li>Pierre Régnier (IRIT-CNRS, Université de Toulouse III, France)</li>
+  <li>Lakhdar Saïs (CRIL-CNRS, Université Lille Nord de France, Artois, France)</li>
+  <li>Cyril Terrioux (LSIS-CNRS, Universite d’Aix-Marseille, France)</li>
+  <li>Bruno Zanuttini (GREYC-CNRS, Universite de Caen Basse-Normandie, France)</li>
+</ul>
+:ET

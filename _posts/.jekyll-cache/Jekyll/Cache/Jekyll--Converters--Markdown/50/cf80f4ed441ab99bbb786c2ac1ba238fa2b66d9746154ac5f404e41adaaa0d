@@ -1,0 +1,14 @@
+I"g<p>The aim of the Pragmatics of SAT (PoS) workshop series is to provide a venue for researchers working on designing and/or applying Boolean satisfiability (SAT) solvers and related solver technologies, including but not restricting to satisfiability modulo theories (SMT), Answer set programming (ASP), and constraint programming (CP) as well as their optimization counterparts, to meet, communicate, and discuss latest results.</p>
+
+<p>The workshop welcomes three categories of papers:</p>
+
+<ul>
+  <li>Original papers describing original work on a topic of the workshop, including papers whose focus might be too narrow to be published in a conference. Short original papers, approximately 6-8 pages in length, including system descriptions of SAT and related solver technologies are also welcome.</li>
+  <li>Work-in-progress papers describing less mature work on a topic of the workshop, to gather feedback from the community.</li>
+  <li>Presentation-only papers describing a work on a topic of the workshop recently accepted or published to another conference, but that the community may have missed (including, e.g., domain-specific applications of declarative solvers at the respective domain-specific conferences). Submissions to this category will be evaluated only on their relevance to the workshop.</li>
+</ul>
+
+<p>Each submission will be reviewed by at least three members of the programme committee.</p>
+
+<p>Authors should provide enough information and/or data for reviewers to confirm any performance claims. This includes links to a runnable system, access to benchmarks, reference to a public performance results, etc.</p>
+:ET

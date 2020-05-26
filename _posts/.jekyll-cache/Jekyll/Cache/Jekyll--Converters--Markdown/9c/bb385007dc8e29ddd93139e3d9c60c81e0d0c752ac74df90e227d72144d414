@@ -1,0 +1,115 @@
+I"”<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>----------------------------------------------------------------------
+          CALL FOR PAPERS
+
+  QUANTIFY 2015 - DEADLINE EXTENSION!
+              --------
+      International Workshop on
+           QUANTIFICATION
+
+    Berlin, Germany, August 1, 2015
+      http://fmv.jku.at/quantify15/
+
+
+   Affiliated to and co-located with:
+         CADE 2015 conference
+   Berlin, Germany, August 1-7, 2015    http://conference.mi.fu-berlin.de/cade-25/home
+----------------------------------------------------------------------
+</code></pre></div></div>
+
+<p>Quantifiers play an important role in language extensions of many
+logics.  The use of quantifiers often allows for a more succinct
+encoding as it would be possible without quantifiers. However, the
+introduction of quantifiers affects the complexity of the extended
+formalism in general.  Consequently, theoretical results established
+for the quantifier-free formalism may not directly be transferred to
+the quantified case. Further, techniques successfully implemented in
+reasoning tools for quantifier-free formulas cannot directly be lifted
+to a quantified version.</p>
+
+<p>The goal of the 2nd International Workshop on Quantification (QUANTIFY
+2015) is to bring together researchers who investigate the impact of
+quantification from a theoretical as well as from a practical point of
+view. Quantification is a topic in different research areas such as in
+SAT in terms of QBF, in CSP in terms of QCSP, in SMT, etc. This
+workshop has the aim to provide an interdisciplinary forum where
+researchers of various fields may exchange their experiences.</p>
+
+<h3 id="invited-speaker">INVITED SPEAKER</h3>
+
+<p>Olaf Beyersdorff, University of Leeds</p>
+
+<h3 id="important-dates">IMPORTANT DATES</h3>
+
+<p>Please follow http://fmv.jku.at/quantify15/ for any updates.</p>
+
+<ul>
+  <li>May   24 2015: paper submission (EXTENDED DEADLINE)</li>
+  <li>June   7 2015: notification of acceptance</li>
+  <li>June  23 2015: camera-ready version of papers</li>
+  <li>August 1 2015: workshop</li>
+</ul>
+
+<h3 id="topics-of-interest">TOPICS OF INTEREST</h3>
+
+<p>The workshop is concerned with all theoretical and practical aspects
+of quantification in logics such as QBF, QCSP, SMT, and theorem
+proving. The topics of interest include (but are not limited to):</p>
+
+<ul>
+  <li>Complexity results</li>
+  <li>Encodings with and without quantification and comparisons thereof</li>
+  <li>Applications of quantification</li>
+  <li>Implementations of reasoning tools</li>
+  <li>Case studies and experimental results</li>
+  <li>Intersections between the different research communities working on
+quantification</li>
+  <li>Surveys of state-of-the-art approaches to handling quantification</li>
+</ul>
+
+<h3 id="submission-of-extended-abstracts">SUBMISSION OF EXTENDED ABSTRACTS</h3>
+
+<p>Submissions of extended abstracts are solicited and will be managed
+via Easychair:</p>
+
+<p>https://easychair.org/conferences/?conf=quantify15</p>
+
+<p>Submitted papers should be formatted in either LNCS format or a
+standard LaTeX article format (paper size A4, font size 11pt).</p>
+
+<p>We solicit two types of submissions:</p>
+
+<ol>
+  <li>
+    <p>Talk abstracts (maximum two pages, excluding references) describing
+already published results.</p>
+  </li>
+  <li>
+    <p>Full papers (maximum 14 pages, excluding references) on novel,
+unpublished work.</p>
+  </li>
+</ol>
+
+<p>Please see the workshop website for a full description of the paper
+categories and submission instructions.</p>
+
+<h3 id="program-chairs">PROGRAM CHAIRS</h3>
+
+<ul>
+  <li>Hubie Chen, Universidad del Pais Vasco and Ikerbasque</li>
+  <li>Florian Lonsing, Vienna University of Technology, Austria</li>
+  <li>Martina Seidl, Johannes Kepler University Linz, Austria</li>
+</ul>
+
+<h3 id="program-committee">PROGRAM COMMITTEE</h3>
+
+<ul>
+  <li>Olaf Beyersdorff, University of Leeds</li>
+  <li>Nikolaj Bjorner, Microsoft Research</li>
+  <li>Jasmin Blanchette, TU Munich</li>
+  <li>Mikolas Janota, INESC-ID Lisboa</li>
+  <li>Laura Kovacs, Chalmers University of Technology</li>
+  <li>Francesco Scarcello, DIMES, University of Calabria</li>
+  <li>Christoph Wintersteiger, Microsoft Research</li>
+</ul>
+
+:ET

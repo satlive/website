@@ -1,0 +1,150 @@
+I"˜<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>                           CALL FOR PAPERS
+                             ASPOCP 2014
+ 7th Workshop on Answer Set Programming and Other Computing Paradigms
+                https://sites.google.com/site/aspocp2014
+                          July 23rd, 2014
+ 
+Affiliated with the International Conference on Logic Programming 2014
+              (part of the Federated Logic Conference 2014)
+                           Vienna, Austria
+                          July 19-22, 2014
+
+            Collocated with the Vienna Summer of Logic 2014
+                           Vienna, Austria
+                          July 12-24, 2014
+</code></pre></div></div>
+
+<h2 id="aims-and-scope">AIMS AND SCOPE</h2>
+<p>Since its introduction in the late 1980s, answer set programming (ASP)
+ has been widely applied to various knowledge-intensive tasks and
+ combinatorial search problems. ASP was found to be closely related to
+ SAT, which has led to a method of computing answer sets using SAT
+ solvers and techniques adapted from SAT. While this has been the most
+ studied relationship which is currently extended towards
+ satisfiability modulo theories (SMT), the relationship of ASP to other
+ computing paradigms, such as constraint satisfaction, quantified
+ boolean formulas (QBF), first-order logic (FOL), or FO(ID) logic is
+ also the subject of active research. New methods of computing answer
+ sets are being developed based on the relation between ASP and other
+ paradigms, such as the use of pseudo-Boolean solvers, QBF solvers, FOL
+ theorem provers, and CLP systems.
+ Furthermore, the practical applications of ASP also foster work on
+ multi-paradigm problem-solving, and in particular language and solver
+ integration. The most prominent examples in this area currently are the
+ integration of ASP with description logics (in the realm of the
+ Semantic Web), constraint satisfaction, and general means of external
+ computation.  This workshop will  facilitate the discussion about
+ crossing the boundaries of current ASP techniques in theory, solving,
+ and applications, in combination with or inspired by other computing
+ paradigms.</p>
+
+<h2 id="topics">TOPICS</h2>
+
+<p>Topics of interests include (but are not limited to):</p>
+
+<ul>
+  <li>ASP and classical logic formalisms (SAT/FOL/QBF/SMT/DL).</li>
+  <li>ASP and constraint programming.</li>
+  <li>ASP and other logic programming paradigms, e.g., FO(ID).</li>
+  <li>ASP and other nonmonotonic languages, e.g., action languages.</li>
+  <li>ASP and external means of computation.</li>
+  <li>ASP and probabilistic reasoning.</li>
+  <li>ASP and machine learning.</li>
+  <li>New methods of computing answer sets using algorithms or systems of
+other paradigms.</li>
+  <li>Language extensions to ASP.</li>
+  <li>ASP and multi-agent systems.</li>
+  <li>ASP and multi-context systems.</li>
+  <li>Modularity and ASP.</li>
+  <li>ASP and argumentation.</li>
+  <li>Multi-paradigm problem solving involving ASP.</li>
+  <li>Evaluation and comparison of ASP to other paradigms.</li>
+  <li>ASP and related paradigms in applications.</li>
+  <li>Hybridizing ASP with procedural approaches.</li>
+  <li>Enhanced grounding or beyond grounding.</li>
+</ul>
+
+<h2 id="submissions">SUBMISSIONS</h2>
+<p>Papers must describe original research and should not exceed 15 pages
+ in the Springer LNCS format .
+ Paper submission will be handled electronically by means of the
+ Easychair system. The submission page is available at
+ https://www.easychair.org/conferences/?conf=aspocp14</p>
+
+<h2 id="important-dates">IMPORTANT DATES</h2>
+
+<ul>
+  <li>Abstract and paper submission deadline:         April 1, 2014</li>
+  <li>Notification:               	 		 May 1, 2014</li>
+  <li>Camera-ready articles due:  	       		 May 20, 2014</li>
+  <li>Workshop:             		       		 July 23, 2014</li>
+</ul>
+
+<h2 id="location">LOCATION</h2>
+<p>The workshop will be held in Vienna, Austria, collocated with
+ the International Conference on Logic Programming (ICLP) 2014.</p>
+
+<h2 id="proceedings">PROCEEDINGS</h2>
+<p>Accepted papers will be made available online and published in the
+ Computing Research Repository (CoRR) afterwards.</p>
+
+<p>A selection of extended and revised versions of accepted papers will
+ appear in a special issue of the Journal of Logic and Computation
+ (http://logcom.oxfordjournals.org/), provided that a sufficient
+ amount of high quality papers is collected.</p>
+
+<p>Such papers will go through a second formal selection process to meet
+ the high quality standard of the journal.</p>
+
+<h2 id="timeline-for-the-special-issue-preliminary">TIMELINE FOR THE SPECIAL ISSUE (PRELIMINARY)</h2>
+
+<ul>
+  <li>Expression of interest/invitation:		   Right after the workshop</li>
+  <li>First submissions:				   Fall 2014</li>
+  <li>Revision of manuscripts:		
+ (for papers not already accepted or rejected)     Spring 2015</li>
+  <li>Final notification/version of accepted papers 	   Summer 2015</li>
+</ul>
+
+<h2 id="workshop-co-chairs">WORKSHOP CO-CHAIRS</h2>
+
+<ul>
+  <li>Daniela Inclezan, Miami University, USA</li>
+  <li>Marco Maratea, DIBRIS - University of Genova, Italy</li>
+</ul>
+
+<h2 id="program-committee">PROGRAM COMMITTEE</h2>
+
+<ul>
+  <li>Marcello Balduccini, Drexler University, USA</li>
+  <li>Gerhard Brewka, University of Leipzig, Germany</li>
+  <li>Pedro Cabalar, Corunna University, Spain</li>
+  <li>Wolfgang Faber, University of Huddersfield, UK</li>
+  <li>Cristina Feier, University of Oxford, UK</li>
+  <li>Johannes Klaus	Fichte, Vienna University of Technology, Austria</li>
+  <li>Michael Fink, Vienna University of Technology, Austria</li>
+  <li>Gregory Gelfond, Arizona State University, USA</li>
+  <li>Michael Gelfond, Texas Tech University, USA</li>
+  <li>Enrico Giunchiglia, University of Genova, Italy</li>
+  <li>Giovambattista Ianni, University of Calabria, Italy</li>
+  <li>Tomi Janhunen, Aalto University, Finland</li>
+  <li>Joohyung Lee, Arizona State University, USA</li>
+  <li>Joao Leite, New University of Lisbon, Portugal</li>
+  <li>Yuliya Lierler, University of Nebraska at Omaha, USA</li>
+  <li>Vladimir Lifschitz, University of Texas at Austin, USA</li>
+  <li>Alessandro Mosca, Free University of Bolzano, Italy</li>
+  <li>Emilia Oikarinen, Aalto University, Finland</li>
+  <li>Max Ostrowski, University of Potsdam, Germany</li>
+  <li>Axel Polleres, Vienna University of Economics &amp; Business, Austria</li>
+  <li>Francesco Ricca, University of Calabria, Italy</li>
+  <li>Guillermo R. Simari, Universidad Nacional del Sur, Argentina</li>
+  <li>Evgenia Ternovska, Simon Fraser University, Canada</li>
+  <li>Hans Tompits, Vienna University of Technology, Austria</li>
+  <li>Miroslaw Truszczynski, University of Kentucky, USA</li>
+  <li>Joost Vennekens, Catholic University of Leuven, Belgium</li>
+  <li>Marina De Vos, University of Bath, UK</li>
+  <li>Stefan Woltran, Vienna University of Technology, Austria</li>
+  <li>Fangkai Yang, University of Texas at Austin, USA</li>
+  <li>Jia-Huai You, University of Alberta, Canada</li>
+</ul>
+:ET

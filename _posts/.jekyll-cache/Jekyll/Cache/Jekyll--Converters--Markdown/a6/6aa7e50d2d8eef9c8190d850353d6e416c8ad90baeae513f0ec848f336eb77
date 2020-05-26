@@ -1,0 +1,68 @@
+I"0<h3 id="scope">Scope</h3>
+
+<p>SAT 2019 welcomes scientific contributions addressing different aspects of the satisfiability problem, interpreted in a broad sense. Domains include MaxSAT and Pseudo-Boolean (PB) constraints, Quantified Boolean Formulae (QBF), Satisfiability Modulo Theories (SMT), as well as Constraint Satisfaction Problems (CSP). Topics include, but are not restricted to:</p>
+
+<ul>
+  <li>Theoretical advances (including algorithms, proof complexity, parameterized complexity, and other complexity issues);</li>
+  <li>Practical search algorithms;</li>
+  <li>Knowledge compilation;</li>
+  <li>Implementation-level details of SAT solving tools and SAT-based systems;</li>
+  <li>Problem encodings and reformulations;</li>
+  <li>Applications (including both novel applications domains and improvements to existing approaches);</li>
+  <li>Case studies and reports on insightful findings based on rigorous experimentation.</li>
+</ul>
+
+<h3 id="out-of-scope">Out of Scope</h3>
+
+<p>Papers claiming to resolve a major long-standing open theoretical question in Mathematics or Computer Science (such as those for which a Millennium Prize is offered), are outside the scope of the conference because there is insufficient time in the schedule to referee such papers; instead, such papers should be submitted to an appropriate technical journal.</p>
+
+<h3 id="paper-categories">Paper Categories</h3>
+
+<p>Submissions to SAT 2019 are solicited in three paper categories, describing original contributions.</p>
+
+<ul>
+  <li>Long papers (9 to 15 pages, excluding references)</li>
+  <li>Short papers (up to 8 pages, excluding references)</li>
+  <li>Tool papers (up to 6 pages, excluding references)</li>
+</ul>
+
+<p>Long and short papers should contain original research, with sufficient detail to assess the merits and relevance of the contribution. For papers reporting experimental results, authors are strongly encouraged to make their data and implementations available with their submission. Submissions reporting on case studies are also encouraged, and should describe details, weaknesses, and strengths in sufficient depth. Long and short papers will be evaluated with the same quality standards, and are expected to contain a similar contribution per page ratio.</p>
+
+<p>The authors should choose between a long or a short paper depending on the space they need to fully describe their contribution. The classification between long and short papers is mainly a way to balance the workload of the reviewing process among PC members. It also impacts the duration of the presentation of the work during the conference. It is the responsibility of the authors to make sure that their paper is self-contained in the chosen limit of pages. There will be no requalification of the submissions by the PC.</p>
+
+<p>Tool papers must obey to a specific content criteria. A tool paper should describe the implemented tool and its novel features. Here “tools” are interpreted in a broad sense, including descriptions of implemented solvers, preprocessors, etc., as well as systems that exploit SAT solvers or their extensions for use in interesting problem domains. A demonstration is expected to accompany a tool presentation. Papers describing tools that have already been presented previously are expected to contain significant and clear enhancements to the tool.</p>
+
+<h3 id="submissions">Submissions</h3>
+
+<p>Submissions should not be under review elsewhere nor be submitted elsewhere while under review for SAT 2019, and should not consist of previously published material.</p>
+
+<p>Submissions not consistent with the above guidelines may be returned without review.</p>
+
+<p>Besides the paper itself, authors may submit a supplement consisting of one file in the format of a gzipped tarball (.tar.gz or .tgz) or a gzipped file (.gz) or a zip archive (.zip). Authors are encouraged to submit a supplement when it will help reviewers evaluate the paper. Supplements will be treated with the same degree of confidentiality as the paper itself. For example, the supplement might contain detailed proofs, examples, software, detailed experimental data, or other material related to the submission. Individual reviewers may or may not consult the supplementary material; the paper itself should be self-contained.</p>
+
+<p>All papers submissions are done exclusively via EasyChair in Springer’s LaTeX llncs2e style.</p>
+
+<p>One author of each accepted paper is expected to present it at the conference.</p>
+
+<h3 id="important-dates">Important dates</h3>
+
+<ul>
+  <li>Conference    July 9-12, 2019</li>
+  <li>Workshops:    July 7-8, 2019</li>
+  <li>Abstract submission:    March 1, 2019</li>
+  <li>Paper submission:    March 8, 2019</li>
+  <li>Author response period:    April 8, 2019</li>
+  <li>Author notification:    April 22, 2019</li>
+  <li>Camera-ready:    May 6, 2019</li>
+</ul>
+
+<h3 id="proceedings">Proceedings</h3>
+
+<p>All accepted papers are expected to be published in the proceedings of the conference, which will be published within the Springer LNCS series.</p>
+
+<h3 id="travel-support-and-best-paper-awards">Travel Support and Best Paper Awards</h3>
+
+<p>Long and short papers may be considered for a best paper award. If the main author is a student, both in terms of work and writing, the paper may be considered for a best student paper award. Use the supplement to your submission to state (in a brief cover letter) if the paper qualifies as a student paper. Both the best paper award and the best student paper award are sponsored by Springer.</p>
+
+<p>The SAT association will provide partial travel support to students with accepted papers to attend SAT 2019.</p>
+:ET

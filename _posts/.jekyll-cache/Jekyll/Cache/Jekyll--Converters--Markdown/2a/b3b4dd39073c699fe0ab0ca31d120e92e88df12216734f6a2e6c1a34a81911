@@ -1,0 +1,122 @@
+I"<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>----------------------------------------------------------------------
+
+   	19th International Conference 
+   	on Foundations of Software Science 
+   	and Computation Structures. 
+  
+                  --- (FoSSaCS) ---
+
+    Eindhoven, The Netherlands, April 2016.
+
+-----------------------------------------------------------------------
+</code></pre></div></div>
+
+<p>FoSSaCS seeks original papers on foundational research with a clear significance for software science. The conference invites submissions on theories and methods to support the analysis, integration, synthesis, transformation, and verification of programs and software systems. The specific topics covered by the conference include, but are not limited to, the following:</p>
+
+<ul>
+  <li>categorical models and logics;</li>
+  <li>language theory, automata, and games;</li>
+  <li>modal, spatial, and temporal logics;</li>
+  <li>type theory and proof theory;</li>
+  <li>concurrency theory and process calculi;</li>
+  <li>rewriting theory;</li>
+  <li>semantics of programming languages;</li>
+  <li>program analysis, correctness, transformation, and verification;</li>
+  <li>logics of programming;</li>
+  <li>software specification and refinement;</li>
+  <li>models of concurrent, reactive, stochastic, distributed, hybrid, and mobile systems;</li>
+  <li>emerging models of computation;</li>
+  <li>logical aspects of computational complexity;</li>
+  <li>models of software security;</li>
+  <li>logical foundations of data bases</li>
+</ul>
+
+<h2 id="important-dates-and-submission">Important dates and submission</h2>
+
+<p>See the ETAPS 2016 joint call for papers. Submit your paper via the FoSSaCS 2016 author interface of Easychair.</p>
+
+<p>FoSSaCS accepts only research papers (max 15 pp). FoSSaCS 2016 will use a rebuttal phase. Dates: 2-4 December 2015.</p>
+
+<h2 id="programme-chairs">Programme chairs</h2>
+
+<ul>
+  <li>
+    <p>Bart Jacobs (Radboud University Nijmegen, The Netherlands)</p>
+  </li>
+  <li>
+    <p>Christof Löding (RWTH Aachen, Germany)</p>
+  </li>
+</ul>
+
+<h2 id="programme-committee">Programme committee</h2>
+
+<ul>
+  <li>
+    <p>Achim Blumensath (Technische Universität Darmstadt, Germany)</p>
+  </li>
+  <li>
+    <p>Thomas Brihaye (Université de Mons, Belgium)</p>
+  </li>
+  <li>
+    <p>Arnaud Carayol (IGM, CNRS &amp; Université Paris-Est, France)</p>
+  </li>
+  <li>
+    <p>Stéphane Demri (LSV, CNRS &amp; ENS Cachan, France)</p>
+  </li>
+  <li>
+    <p>Maribel Fernández (King’s College London, UK)</p>
+  </li>
+  <li>
+    <p>Nate Foster (Cornell University, USA)</p>
+  </li>
+  <li>
+    <p>Marco Gaboardi (University of Dundee, UK)</p>
+  </li>
+  <li>
+    <p>Masahito Hasegawa (Kyoto University, Japan)</p>
+  </li>
+  <li>
+    <p>Chris Heunen (University of Oxford, UK)</p>
+  </li>
+  <li>
+    <p>Jan Hoffmann (Yale University, USA)</p>
+  </li>
+  <li>
+    <p>Radha Jagadeesan (DePaul University, USA)</p>
+  </li>
+  <li>
+    <p>Bartek Klin (University of Warsaw, Poland)</p>
+  </li>
+  <li>
+    <p>Naoki Kobayashi (University of Tokyo, Japan)</p>
+  </li>
+  <li>
+    <p>Manfred Kufleitner (Universität Stuttgart, Germany)</p>
+  </li>
+  <li>
+    <p>Orna Kupferman (Hebrew University of Jerusalem, Israel)</p>
+  </li>
+  <li>
+    <p>Paul Levy (University of Birmingham, UK)</p>
+  </li>
+  <li>
+    <p>Matteo Mio (LIP, CNRS &amp; ENS Lyon, France)</p>
+  </li>
+  <li>
+    <p>Sylvain Salvati (LaBRI, INRIA Bordeaux - Sud-Ouest &amp; Université de Bordeaux, France)</p>
+  </li>
+  <li>
+    <p>Olivier Serre (LIAFA, CNRS &amp; Université Paris Diderot, France)</p>
+  </li>
+  <li>
+    <p>Colin Stirling (University of Edinburgh, UK)</p>
+  </li>
+  <li>
+    <p>Nikos Tzevelekos (Queen Mary University of London, UK)</p>
+  </li>
+  <li>
+    <p>Daniele Varacca (LACL, Université Paris-Est, France)</p>
+  </li>
+</ul>
+
+:ET

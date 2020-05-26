@@ -1,0 +1,23 @@
+I"é<p>The MaxSAT Evaluation 2019 is coming up soon!
+We have extended the deadline for submitting benchmarks and solvers
+for the MaxSAT Evaluation 2019 to Friday, June 7, 2019.</p>
+
+<p>The final version of your solver must be uploaded to the following
+subspaces (depending on the category you want to participate):</p>
+
+<ul>
+  <li>MSE2019-&gt;Evaluation-&gt;Complete-&gt;Unweighted</li>
+  <li>MSE2019-&gt;Evaluation-&gt;Complete-&gt;Weighted</li>
+  <li>MSE2019-&gt;Evaluation-&gt;Incomplete-&gt;Unweighted</li>
+  <li>MSE2019-&gt;Evaluation-&gt;Incomplete-&gt;Weighted</li>
+</ul>
+
+<p>More details on the final submission are available at:
+https://maxsat-evaluations.github.io/2019/submission.html</p>
+
+<p>So far we did not receive many new benchmarks. If you are using MaxSAT
+to solve problems, we encourage you to submit your formulas to this
+year MaxSAT Evaluation.
+New benchmarks are critical for the continuous improvement of MaxSAT
+solvers and to perform a better assessment of their performance.</p>
+:ET

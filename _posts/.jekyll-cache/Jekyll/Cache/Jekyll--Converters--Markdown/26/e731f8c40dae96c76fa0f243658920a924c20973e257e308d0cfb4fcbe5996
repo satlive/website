@@ -1,0 +1,102 @@
+I"�<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>=================================================
+	      CALL FOR PAPERS
+Journal of Automated Reasoning
+
+       Special Issue On
+ Automated Reasoning Systems
+=================================================
+</code></pre></div></div>
+
+<p>The past few decades have seen major developments and
+practical achievements in automated reasoning systems. For
+example, SAT solving has become an inherent part of the
+standard hardware production process; SMT solvers are now
+the backbone of most software verification techniques;
+first-order theorem provers have pushed the productivity of
+interactive theorem proving to a new level; computer algebra
+systems have solved difficult problems in mathematics and
+biology; knowledge representation systems have become
+indispensable for reasoning in the world wide web; automatic
+termination checkers routinely prove the termination of
+complex programs.</p>
+
+<p>This special issue is dedicated to automated reasoning
+systems in their full variety along the following
+dimensions:</p>
+
+<ol>
+  <li>
+    <p>considered logic: propositional (including (D)QBF),
+first-order modulo theories, modal, temporal, decidable
+fragments of larger logics, FOL, and HOL, …;</p>
+  </li>
+  <li>
+    <p>considered problem: satisfiability, interpolation,
+quantifier elimination, consequence finding, model building,
+reachability, termination, …;</p>
+  </li>
+  <li>
+    <p>application area: formal methods, artificial
+intelligence, mathematics, biology, product development,
+security, …;</p>
+  </li>
+  <li>
+    <p>user base: academic, educational, or industrial.</p>
+  </li>
+</ol>
+
+<p>In particular, we welcome papers emphasizing engineering
+aspects because, while often crucial for the success of
+automated reasoning tools, they are typically not given a
+sufficiently detailed treatment in theory papers or system
+description papers published at conferences or workshops.</p>
+
+<p>We welcome full-length papers describing past work not
+previously published in a journal as well as papers of any
+length describing new developments. Revised and enhanced
+versions of papers published in conference proceedings that
+have not appeared in archival journals are also eligible for
+submission. All submissions will be reviewed according to
+the usual standards of scholarship and originality.</p>
+
+<p>We encourage submissions that include most, if not all, of
+the following:</p>
+
+<ul>
+  <li>(i) theory details</li>
+  <li>(ii) implementation details</li>
+  <li>(iii) applications, and</li>
+  <li>(iv) experiments.</li>
+</ul>
+
+<p>Papers should be in PDF format, following <a href="http://www.springer.com/computer/theoretical+computer+science/journal/10817">JAR guidelines</a></p>
+
+<p>and be submitted using <a href="https://easychair.org/conferences/?conf=jars2017">EasyChair</a></p>
+
+<p>To encourage a speedy review cycle, we will expect authors
+of submissions to serve as referees for other submissions as
+needed.</p>
+
+<h2 id="important-dates">Important Dates</h2>
+
+<ul>
+  <li>3 Apr 2017    Submission deadline</li>
+  <li>1 Nov 2017    Notification of acceptance/rejection</li>
+  <li>1 Mar 2018    Final version</li>
+</ul>
+
+<h2 id="guest-editors">Guest Editors</h2>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Armin Biere,
+Johannes Kepler University,
+Linz, Austria
+
+Cesare Tinelli,
+The University of Iowa,
+Iowa City, USA
+
+Christoph Weidenbach,
+Max Planck Institute for Informatics,
+Saarbruecken, Germany
+</code></pre></div></div>
+:ET

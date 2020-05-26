@@ -1,0 +1,6 @@
+I"%<p>The main change in 1.6.2 is the addition of the SAT backend. The first iteration of this feature was written by Patrick Spracklen as a summer student project. All constraints in the language have a SAT encoding. MiniSat and Lingeling are fully supported as backend solvers: 1.6.2 can run them, parse the solution and collect some statistics from the solver.</p>
+
+<p>In addition 1.6.2 fixes a few bugs. The most serious is a bug in Active CSE that could cause a negated global constraint to be deleted. Since Active CSE is switched on by default, I would recommend that all users of Savile Row should upgrade to 1.6.2. There are some efficiency improvements particularly in matrix operations.</p>
+
+<p>Finally, the documentation has had some minor improvements, particularly the Essence’ tutorial.</p>
+:ET

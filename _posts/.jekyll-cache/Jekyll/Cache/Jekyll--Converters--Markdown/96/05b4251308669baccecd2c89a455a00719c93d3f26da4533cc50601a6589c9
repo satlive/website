@@ -1,0 +1,52 @@
+I"Y	<p>The 1st International Competition on Model Counting (MC 2020) is a competition to deepen the relationship between latest theoretical and practical development on the various model counting problems and their practical applications. It targets the problem of counting the number of models of a Boolean formula.</p>
+
+<p>MC 2020 aims to identify new challenging benchmarks and to promote new solvers for the problem as well as to compare them with state-of-the-art solvers. The MC 2020 follows a direction in the community of constraint solving, where already many competitions have been organized such as on ASP (7 editions), CSP (19 editions), SAT (19 editions), SMT (14 editions), MaxSAT Evaluation (13 editions), QBF (8 editions).</p>
+
+<h3 id="organization">Organization</h3>
+
+<h4 id="program-co-chair">Program Co-Chair</h4>
+
+<ul>
+  <li>Markus Hecher (TU Wien, Vienna)</li>
+  <li>Johannes K. Fichte (TU Dresden, Dresden)</li>
+</ul>
+
+<h4 id="student">Student</h4>
+
+<ul>
+  <li>Florim Hamiti (TU Dresden, Dresden)</li>
+</ul>
+
+<h4 id="scientific-partners">Scientific Partners</h4>
+
+<ul>
+  <li>Adnan Darwiche (University of California at Los Angeles)</li>
+  <li>Arthur Choi (University of California at Los Angeles)</li>
+  <li>Armin Biere (Johannes Kepler Universitat Linz)</li>
+  <li>Kuldeep S. Meel (National University of Singapore)</li>
+  <li>Markus Hecher (TU Wien)</li>
+  <li>Johannes K. Fichte (TU Dresden)</li>
+  <li>Marijn Heule (Carnegie Mellon University)</li>
+  <li>Norbert Manthey (Amazon AWS Dresden)</li>
+  <li>Stefan Mengel (CNRS at Centre de Recherche en Informatique de Lens)</li>
+  <li>Pierre Marquis (CNRS at Centre de Recherche en Informatique de Lens and Université d’Artois)</li>
+  <li>Fahim Bacchus (University of Toronto)</li>
+  <li>Vibhav Gogate (University of Texas at Dallas)</li>
+</ul>
+
+<h4 id="evaluation-plattform--optilio">Evaluation Plattform / optil.io</h4>
+
+<ul>
+  <li>Szymon Wasik (Poznan University of Technology, Poznan)</li>
+</ul>
+
+<h3 id="important-dates">Important Dates</h3>
+
+<ul>
+  <li>December 18th, 2019: Announcement of the challenge (Tracks)</li>
+  <li>January 22nd, 2019: Call for Benchmarks</li>
+  <li>March 5th, 2020 (AoE) – Deadline – Benchmark Submission</li>
+  <li>May 22th, 2020 (AoE) – Deadline (DS) – Submission</li>
+  <li>June 3rd, 2020 (AoE) – Deadline (DD) – Submission of a solver description via Easychair</li>
+</ul>
+:ET

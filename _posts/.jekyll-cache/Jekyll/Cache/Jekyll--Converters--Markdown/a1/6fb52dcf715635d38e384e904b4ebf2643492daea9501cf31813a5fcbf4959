@@ -1,0 +1,55 @@
+I"Û<p>We decided to create a game based on the SAT problem, which is available for Android and IOS in French and English.</p>
+
+<p>We called this game <underline>SAT-Your-Day</underline>.</p>
+
+<p><img src="https://combi.games/wp-content/uploads/2019/10/satYourDayStore.png" width="100%" /></p>
+
+<p>The problem is slightly different from the classic SAT problem because it is not a decision problem here.</p>
+
+<p>The problem is to falsify as many literals as possible while ensuring that at least one literal per clause is true.</p>
+
+<p><img src="https://combi.games/wp-content/uploads/2019/10/Capture-d%E2%80%99e%CC%81cran-2019-10-14-a%CC%80-16.20.41.png" width="33%" />
+<img src="https://combi.games/wp-content/uploads/2019/10/Capture-d%E2%80%99e%CC%81cran-2019-10-14-a%CC%80-16.24.16.png" width="33%" />
+<img src="https://combi.games/wp-content/uploads/2019/10/Capture-d%E2%80%99e%CC%81cran-2019-10-14-a%CC%80-16.25.03.png" width="33%" /></p>
+
+<h2 id="the-rules-of-the-game">The rules of the game</h2>
+
+<ul>
+  <li>No box containing fruits should be empty.</li>
+  <li>You must keep exactly one type of fruit per color.</li>
+  <li>It is possible to have a box with several fruits in it.</li>
+</ul>
+
+<p>To link all of this to the SAT problem:</p>
+
+<ul>
+  <li>Each box is a clause.</li>
+  <li>Each color is a variable.</li>
+  <li>Each fruit of a certain color is an assignment of a variable.</li>
+</ul>
+
+<p>For each level of difficulty, the number of boxes, colors and fruits will increase which will necessarily complicate the game.</p>
+
+<p>Try to remove as much fruit as possible in our most difficult levels!</p>
+
+<h2 id="available-on">Available on:</h2>
+
+<ul>
+  <li>
+    <p><a href="https://play.google.com/store/apps/details?id=com.combigames.syd">Google Play Store</a></p>
+  </li>
+  <li>
+    <p><a href="https://apps.apple.com/us/app/sat-your-day/id1475767072?l=fr">Apple Store</a></p>
+  </li>
+</ul>
+
+<h2 id="contact-information">CONTACT INFORMATION</h2>
+
+<p>Questions regarding the game or any potential feedback should be sent to <a href="mailto:contact@combi.games">contact@combi.games</a></p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>contact@combi.games
+Nice
+French Riviera
+South of France    
+</code></pre></div></div>
+:ET
