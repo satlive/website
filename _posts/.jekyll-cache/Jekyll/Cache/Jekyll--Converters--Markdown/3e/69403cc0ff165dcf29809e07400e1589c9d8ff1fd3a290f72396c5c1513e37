@@ -1,15 +1,0 @@
-I"<p>The TCS Group at KTH Royal Institute of Technology invites applications for postdoc positions in computer science focused on algorithms for solving the Boolean satisfiability problem (SAT) very efficiently for large classes of instances, and on analyzing and understanding such algorithms.</p>
-
-<p>The postdoctoral researchers will be working in the research group of Jakob Nordstrom. Much of the activities of this research group revolve around the themes of efficient algorithms for satisfiability in propositional logic (SAT solving) and lower bounds on the efficiency of methods for reasoning about SAT (proof complexity). On the practical side, one problem of interest is to gain a better understanding of, and improve, the performance of current state-of-the-art SAT solvers based on conflict-driven clause learning (CDCL). We are even more interested in exploring new algebraic or geometric techniques (such as Groebner bases or pseudo-Boolean solving) that could potentially yield exponential improvements over CDCL. We also believe that there should be ample room for technology transfer with related areas such as SMT solving, constraint programming, and/or mixed integer linear programming, and so excellent researchers in these areas are also warmly welcome to apply.</p>
-
-<p>These postdoc positions are full-time employed positions for one year with a possible (and expected) one-year extension. The expected starting date is in August-September 2019, although this is to some extent negotiable.</p>
-
-<p>The application deadline is February 4, 2019. See <a href="http://www.csc.kth.se/~jakobn/openings/J-2018-3178-Eng.php">the full announcement</a> with more information and instructions how to apply. Informal enquiries are welcome and may be sent to jakobn@kth.se .</p>
-
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Jakob Nordström, Associate Professor
-KTH Royal Institute of Technology
-Phone: +46 8 790 69 19 (office), +46 70 742 21 98 (cell)
-http://www.csc.kth.se/~jakobn/
-</code></pre></div></div>
-
-:ET
