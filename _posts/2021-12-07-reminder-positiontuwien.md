@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "Two PhD Positions on Innovative Applications of SAT Techniques (Stefan Szeider, TU Wien, Vienna, Austria)"
+title: "Reminder: Two PhD Positions on Innovative Applications of SAT Techniques (Stefan Szeider, TU Wien, Vienna, Austria)"
 shorttitle: 2 SAT PhD @ TU Wien
 author: "Stefan Szeider"
-tags: Position PhD
+tags: Position PhD Deadline
 deadline: 2021-12-30
 link: http://www.vcla.at/msca/apply/
+excerpt: The deadline for applying to those two SAT related PhD positions is the end of the month (Dec. 30).
 ---
 
 There is an opening for two PhD positions on innovative applications of SAT techniques (that includes, SAT, MaxSAT, (D)QBF, and related techniques), with theoretical and experimental objectives. 

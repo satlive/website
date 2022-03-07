@@ -1,11 +1,10 @@
 ---
 layout: post
-title: "20 PhD Positions in Computer Science at TU Wien, Vienna, Austria"
+title: "Reminder: 20 PhD Positions in Computer Science at TU Wien, Vienna, Austria"
 author: Stefan Szeider
-tags: PhD Position 
+tags: PhD Position Deadline 
 shorttitle: 20 PhD positions @TU Wien
-excerpt: "The novel interdisciplinary Marie Skłodowska-Curie COFUND doctoral 
-training programme LogiCS@TUWien co-funded by the European Commission, will offer 20 full-time PhD positions."
+excerpt: "The deadline for applying to those 20 full-time PhD positions is the end of this month (Dec. 30)."
 link: http://www.vcla.at/msca
 deadline: 2021-12-30
 ---
