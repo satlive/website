@@ -1,6 +1,6 @@
 ---
 name: OpenWBO
-link: http://sat.inesc-id.pt/open-wbo/
+link: https://github.com/sat-group/open-wbo
 language: C++
 tags: MAXSAT
 ---

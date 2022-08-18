@@ -1,6 +1,7 @@
 ---
 name: Clasp
-link: http://potassco.sourceforge.net/
+link: https://github.com/potassco/clasp
 language: C++
+license: MIT
 tags: CDCL PB
 ---

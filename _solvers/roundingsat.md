@@ -1,6 +1,6 @@
 ---
 name: RoundingSat
-link: https://gitlab.com/miao_research/roundingsat
+link: https://gitlab.com/MIAOresearch/roundingsat/
 language: C++
 tags: PB
 ---

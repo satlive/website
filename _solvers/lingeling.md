@@ -1,6 +1,7 @@
 ---
 name: Lingeling
-link: http://fmv.jku.at/lingeling/
+link: https://github.com/arminbiere/lingeling
 language: C++
+license: MIT
 tags: CDCL
 ---

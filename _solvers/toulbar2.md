@@ -1,5 +1,6 @@
 ---
 name: Toulbar2
-link: https://mulcyber.toulouse.inra.fr/projects/toulbar2/
+link: https://github.com/toulbar2/toulbar2
+license: MIT
 tags: MAXSAT
 ---

@@ -1,6 +1,6 @@
 ---
 name: Sat4j
-link: http://www.sat4j.org/
+link: https://gitlab.ow2.org/sat4j/sat4j
 language: Java
 license: EPL LGPL
 tags: CDCL PB MAXSAT
