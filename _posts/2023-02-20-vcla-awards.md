@@ -4,9 +4,9 @@ title: "VCLA International Student Awards - Call for Nominations"
 author: Andrea Hackl
 tags: CFP Deadline 
 shorttitle: VCLA'23 Int. Student Awards
-excerpt: "The Vienna Center for Logic and Algorithms of TU Wien calls for the nomination of authors of outstanding theses and scientific works in the field of Logic and Computer Science, in the two categories outstanding master thesis and outstanding undergraduate thesis."
+excerpt: "The Vienna Center for Logic and Algorithms of TU Wien calls for the nomination of authors of outstanding theses and scientific works in the field of Logic and Computer Science, in the two categories outstanding master thesis and outstanding undergraduate thesis. Submission deadline updated to April 11th."
 link: http://www.vcla.at/2023/01/call-for-nominations-vcla-international-student-awards/
-deadline: 2023-03-31
+deadline: 2023-04-11
 ---
 
 The Vienna Center for Logic and Algorithms of TU Wien calls for the nomination of authors of outstanding theses and scientific works in the field of Logic and Computer Science, in the following two categories:
