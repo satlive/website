@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "PhD Postdoc positions in combinatorial optimization (certifying algorithms / proof logging) (deadline January 18, 2024)"
+title: "PhD and Postdoc positions in combinatorial optimization (certifying algorithms / proof logging) (deadline January 18, 2024)"
 shorttitle: "Positions @ Brussels"
 author: Bart Bogaerts
 link:  https://www.bartbogaerts.eu/projects/CertiFOX/#Hiring
 deadline: 2024-01-18
-tags: PhD Position Deadline
+tags: PhD PostDoc Position Deadline
 excerpt: ERC-Funded PhD and PostDoc positions available at the Vrije Universiteit Brussel to join the proof logging revolution and make combinatorial optimizers deliver 100% correcntess guarantees. 
 ---
 
