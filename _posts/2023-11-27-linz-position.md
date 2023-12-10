@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "Professorship in Formal Models at Johannes Kepler University Linz"
+title: "Professorship in Formal Methods at Johannes Kepler University Linz"
+shorttitle: "Professorship @ JKU"
 author: Martina Seidl
 link: https://www.jku.at/en/the-jku/work-at-the-jku/job-openings/professorship-positions/formal-methods/
 deadline: 2024-01-17
 tags: Position Deadline
-excerpt: The CS Department of Aalto University calls for applications for tenure-track Assistant Professorship in all areas of Computer Science.
+excerpt: The Department of Computer Science at the Faculty of Engineering and Natural Sciences at Johannes Kepler University Linz invites applications for a permanent full-time position at the Institute for Formal Models and Verification (FMV) founded by Armin Biere.
 ---
 The Department of Computer Science at the Faculty of Engineering and Natural Sciences at
 Johannes Kepler University Linz invites applications for a permanent full-time position at the 
