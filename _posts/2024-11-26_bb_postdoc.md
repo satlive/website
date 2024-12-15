@@ -9,7 +9,7 @@ tags: PostDoc Position Deadline
 excerpt: ERC-Funded  PostDoc position available at KU Leuven. Join the proof logging revolution and make combinatorial optimizers deliver 100% correctness guarantees. 
 ---
 
-I'm looking for talented PostDocs to join the CertiFOX project. The selected candidates will work on an exciting project in which we will bring certifying algorithms (proof logging) from low-level languages (such as SAT, where this approach is notoriously succesful) to high-level modelling languages. The grand goal we will work towards is to get end-to-end guarantees of correctness of runs of combinatorial optimization engines, all the way from human-readable input specifications to the produced answers. 
+I'm looking for talented PostDocs to join the CertiFOX project. The selected candidates will work on an exciting project in which we will bring certifying algorithms (proof logging) from low-level languages (such as SAT, where this approach is notoriously successful) to high-level modelling languages. The grand goal we will work towards is to get end-to-end guarantees of correctness of runs of combinatorial optimization engines, all the way from human-readable input specifications to the produced answers. 
 
 If this triggers your scientific curiousity, and you are (or want to become) a productive researcher in combinatorial optimization, have a look at the [the project webpage](https://bartbogaerts.eu/projects/CertiFOX) (under construction). 
 
