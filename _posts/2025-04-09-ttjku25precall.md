@@ -10,5 +10,3 @@ deadline: late spring 2025
 
 ## Four Tenure-Track Positions for Female Candidates at JKU Linz
 
-	
-For details see [here](https://www.jku.at/en/the-jku/work-at-the-jku/job-openings/professorship-positions/)

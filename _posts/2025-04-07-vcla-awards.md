@@ -6,7 +6,7 @@ tags: CFP Deadline
 shorttitle: VCLA'25 Int. Student Awards
 excerpt: "The Vienna Center for Logic and Algorithms of TU Wien calls for the nomination of authors of outstanding theses and scientific works in the field of Logic and Computer Science, in the two categories outstanding master thesis and outstanding undergraduate thesis awards. The degree must have been awarded between January 1st, 2024 and December 31st, 2024 (inclusive)."
 link: https://www.vcla.at/vcla-awards/
-deadline: 2025-04-20
+deadline: 2025-04-30
 ---
 
 The Vienna Center for Logic and Algorithms of TU Wien calls for the nomination of authors of outstanding theses and scientific works in the field of Logic and Computer Science, in the following two categories:
@@ -58,12 +58,12 @@ All documents should be in English, with the exception of the thesis. In case th
  
 ### Important dates
 
-- Submission deadline: April 20th, 2025 (anywhere on Earth)
+- Submission deadline: April 30th, 2025 (anywhere on Earth)
 - Notification of decision: Beginning of July, 2025
  
 ### Contact
 
-Please send all inquiries to vcla_awards@tuwien.ac.at.
+Please send all inquiries to `vcla_awards@tuwien.ac.at`.
 
 ### VCLA Award Committee 2025
 
