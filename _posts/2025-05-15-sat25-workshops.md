@@ -29,7 +29,7 @@ will take place at the University of Glasgow, Scotland from 10 to 15 August, 202
 
 * [2nd Workshop on Explanations with Constraints and Satisfiability (ExCoS)](https://sites.google.com/view/excos2025)
 * [Machine Learning for Solvers and Provers (ML4SP)](https://ml4sp.github.io/)
-* [1st International Workshop on Discrete Optimization with Soft Constraints](https://ulog.udl.cat/static/soft-2025/)
+* [2nd International Workshop on Discrete Optimization with Soft Constraints](https://ulog.udl.cat/static/soft-2025/)
 
 **August 11**
 
