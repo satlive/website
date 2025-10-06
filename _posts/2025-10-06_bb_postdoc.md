@@ -4,7 +4,7 @@ title: "Postdoc positions in combinatorial search/optimization (certifying algor
 shorttitle: "PostDoc @ KU Leuven"
 author: Bart Bogaerts
 link:  https://www.bartbogaerts.eu/projects/CertiFOX/#Hiring
-deadline: 2025-02-06
+deadline: 2025-10-30
 tags: PostDoc Position Deadline
 excerpt:  PostDoc position available at KU Leuven.  
 ---
