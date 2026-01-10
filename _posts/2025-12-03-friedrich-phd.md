@@ -1,9 +1,11 @@
 ---
 layout: post
 title: "PhD: SAT-based Constrained Sampling for Crystal Structure Prediction (University of Liverpool)"
+shorttitle: PhD@Liverpool
 author: Friedrich Slivovsky
-tags: PhD Position
+tags: PhD Position Deadline
 excerpt: PhD studentship at the University of Liverpool on SAT-based constrained sampling for crystal structure prediction (CSP).
+deadline: 2026-01-15
 link: https://www.liverpool.ac.uk/courses/crystal-structure-generation-by-constrained-combinatorial-sampling
 ---
 
