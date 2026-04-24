@@ -1,0 +1,79 @@
+---
+layout: post
+title: "Second Call for Papers: 2nd Workshop on Machine Learning for Solvers and Provers (at FLoC 2026)"
+shorttitle: "ML4SP workshop"
+author: Nguyen Dang
+tags: CFP SAT CP SMT Deadline
+excerpt: "The 2nd Workshop on Machine Learning for Solvers and Provers (ML4SP) aims to bring together researchers and practitioners working at the intersection of machine learning and formal reasoning systems. The workshop is co-located with FLoC 2026 on July 18, 2026, in Lisbon, Portugal."
+link: https://ml4sp.github.io/
+deadline: 2026-05-15
+---
+
+===========================================
+
+    The 2nd Workshop on Machine Learning for Solvers and Provers (ML4SP)
+
+        July 18, 2026, Lisbon, Portugal
+
+===========================================
+
+**Workshop page:** [https://ml4sp.github.io/](https://ml4sp.github.io/)
+
+We warmly invite you to submit your work to the 2nd Workshop on Machine Learning for Solvers and Provers (ML4SP), organised as part of the 2026 Federated Logic Conference ([FLoC 2026](https://www.floc26.org/)) at Lisbon, Portugal. The workshop will run during the first block of the conference, on July 18, 2026.
+
+### Topics
+
+Machine learning (ML) has had a substantial impact on SAT/SMT and CP solvers, as well as automated theorem provers. Recent advances have demonstrated the power of ML to inform solver heuristics, guide proof search, and optimize algorithm portfolios. Despite growing interest in this direction, work on ML for solvers and provers is often scattered across multiple research communities – SAT, SMT, CP, theorem proving, formal methods, and machine learning – with few opportunities for focused interaction. 
+
+The ML4SP workshop aims to bring together researchers and practitioners working at the intersection of machine learning and formal reasoning systems. It provides a forum for the presentation of recent work, the exchange of ideas, and the fostering of collaboration between these communities. 
+
+Topics of interest include, but are not limited to, ML-driven approaches for:
+- Heuristics (branching, restarts, ...) in CP, SAT, SMT, and MIP solvers
+- Tactic selection and proof guidance in automated and interactive theorem provers
+- Algorithm selection, parameter tuning and algorithm configuration, and portfolio solvers
+- End-to-end learning for solvers and provers
+- Benchmark generation and instance hardness prediction
+- Applications of ML-enhanced reasoning in verification, synthesis, planning, and related areas
+- Leveraging large language models (LLMs) for solver heuristics and proof guidance
+
+### Submission
+
+**We welcome submissions describing previously published work, ongoing research, and position papers and early-stage ideas intended to stimulate discussion.**
+
+Submission should be in PDF form, following the [LIPIcs guidelines](https://submission.dagstuhl.de/series/details/5#author). They can be:
+- *Extended abstracts* (up to two pages, excluding references); or 
+- *Full papers* (up to 15 pages, excluding references). 
+
+All submissions will be reviewed by the PC members. A presentation time slot will be given to each accepted submission.
+
+Submission link: [https://submissions.floc26.org/ml4sp/](https://submissions.floc26.org/ml4sp/)
+
+### Key Dates
+
+- **Submission deadline: 15 May 2026 AoE**
+- Result notification: 25 May 2026
+- Camera ready: 2 July 2026
+- Workshop day: 18 July 2026
+
+### Programme Committe
+
+| **Shaowei Cai** | Chinese Academy of Sciences |
+| **Quentin Cappart** | Polytechnique Montréal |
+| **Wuyang Chen** | Simon Fraser University |
+| **Pascal Fontaine** | LORIA, INRIA, Université de Lorraine |
+| **Guy Katz** |        The Hebrew University of Jerusalem |
+| **Sean Holden** | Cambridge University |
+| **Mikoláš Janota** | Czech Technical University |
+| **Lars Kotthoff** | University of St Andrews |
+| **Peter Nightingale** | University of York |
+| **Martin Suda** | Czech Technical University |
+| **Dimos Tsouros** | University of Western Macedonia |
+| **Felix Ulrich-Oltean** | University of York |
+| **Vijay Ganesh** (chair) | Georgia Institute of Technology |
+| **Nguyen Dang** (chair) | University of St Andrews |
+
+
+### Organizers:
+
+- Vijay Ganesh, Georgia Tech, vganesh45@gatech.edu
+- Nguyen Dang, University of St Andrews, nttd@st-andrews.ac.uk 
